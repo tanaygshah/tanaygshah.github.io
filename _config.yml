@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages
 title: "Sample Amplifier"
 description: "Static API endpoints for product information"
-url: "" # Will be set automatically by GitHub Pages
-baseurl: "" # Will be set automatically by GitHub Pages
+url: "https://tanaygshah.github.io" # Your root domain
+baseurl: "" # Empty for root deployment
 
 # GitHub Pages settings
 plugins:

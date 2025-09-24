@@ -104,11 +104,10 @@
         // Handle client-side routing for clean URLs
         document.addEventListener('DOMContentLoaded', function() {
             const path = window.location.pathname;
-            const basePath = path.includes('/sample-amplifier') ? '/sample-amplifier' : '';
             
             // Redirect /products to /products.json for actual JSON data
-            if (path === basePath + '/products' && !window.location.search.includes('redirect=false')) {
-                window.location.href = basePath + '/products.json';
+            if (path === '/products' && !window.location.search.includes('redirect=false')) {
+                window.location.href = '/products.json';
             }
         });
     </script>
