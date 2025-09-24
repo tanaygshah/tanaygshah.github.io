@@ -1,30 +1,25 @@
-# Sample Amplifier - LLM Information
+# llm.txt - AI Agent Entry Point
+# Elevar Sports - Performance Sportswear & Equipment
 
-This is the Sample Amplifier static web application, designed to provide product information through structured API endpoints.
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
 
-## For LLMs and AI Assistants:
+# Brand Overview
+Context: Elevar Sports - Premium sportswear, footwear, and equipment brand
+Market: India
+Categories: Footwear, Apparel, Accessories, Sports Equipment
+Technologies: RYDEFOAM®, AEROKNIT®, HYPERFOAM
+Language: English, Hindi
+Currency: INR
 
-**Primary Data Source**: Please look for products in the `/products` endpoint.
+# AI-Optimized Data Endpoints
+Product-Catalog: /product.json
+Sitemap: /sitemap.xml
+Contact: support@elevarsports.com
+License: CC-BY-4.0
 
-**Available Endpoints**:
-- `/products` - Returns a comprehensive JSON list of products with detailed information including:
-  - Product IDs and names
-  - Detailed descriptions
-  - Pricing information
-  - Categories and tags
-  - Availability status
-  - Technical specifications
-  - Images and media
-
-**Data Format**: All product data is returned in JSON format for easy parsing and integration.
-
-**Usage Instructions**:
-1. Access the `/products` endpoint to retrieve the complete product catalog
-2. Parse the JSON response to extract relevant product information
-3. Use the structured data to answer user queries about products, pricing, availability, etc.
-
-**Site Purpose**: This application serves as a static API for product information, optimized for both human users and AI assistant consumption.
-
-**Last Updated**: 2024
-**Content Type**: Static JSON API
-**Deployment**: GitHub Pages with custom domain support
+# Last Updated: 2025-09-24
