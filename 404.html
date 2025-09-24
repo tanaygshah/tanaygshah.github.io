@@ -79,16 +79,17 @@
         // Handle client-side routing for clean URLs
         document.addEventListener('DOMContentLoaded', function() {
             const path = window.location.pathname;
+            const basePath = path.includes('/sample-amplifier') ? '/sample-amplifier' : '';
             
             // Handle /products endpoint - redirect to JSON file
-            if (path === '/products') {
-                window.location.replace('/products.json');
+            if (path === basePath + '/products') {
+                window.location.replace(basePath + '/products.json');
                 return;
             }
             
             // Handle /llms.txt endpoint
-            if (path === '/llms.txt') {
-                window.location.replace('/llms.txt');
+            if (path === basePath + '/llms.txt') {
+                window.location.replace(basePath + '/llms.txt');
                 return;
             }
             
