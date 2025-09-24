@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Amplifier</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #f8fafc;
+            color: #334155;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+        .header p {
+            margin: 0.5rem 0 0 0;
+            opacity: 0.9;
+            font-size: 1.1rem;
+        }
+        .endpoints {
+            display: grid;
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        .endpoint {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            border-left: 4px solid #667eea;
+        }
+        .endpoint h3 {
+            margin: 0 0 0.5rem 0;
+            color: #1e293b;
+            font-size: 1.25rem;
+        }
+        .endpoint p {
+            margin: 0 0 1rem 0;
+            color: #64748b;
+        }
+        .endpoint a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }
+        .endpoint a:hover {
+            background-color: #5a67d8;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e2e8f0;
+            color: #64748b;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Sample Amplifier</h1>
+        <p>Static API Endpoints for Product Information</p>
+    </div>
+
+    <div class="endpoints">
+        <div class="endpoint">
+            <h3>/llms.txt</h3>
+            <p>Information about this website for LLMs and AI assistants. Contains metadata and instructions for finding product data.</p>
+            <a href="/llms.txt">View LLMs Info</a>
+        </div>
+
+        <div class="endpoint">
+            <h3>/products</h3>
+            <p>JSON API endpoint containing detailed product information including specifications, pricing, and availability.</p>
+            <a href="/products">View Products JSON</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Deployed on GitHub Pages | Static Web Application</p>
+    </div>
+
+    <script>
+        // Handle client-side routing for clean URLs
+        document.addEventListener('DOMContentLoaded', function() {
+            const path = window.location.pathname;
+            
+            // Redirect /products to /products.json for actual JSON data
+            if (path === '/products' && !window.location.search.includes('redirect=false')) {
+                window.location.href = '/products.json';
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+# Jekyll configuration for GitHub Pages
+title: "Sample Amplifier"
+description: "Static API endpoints for product information"
+url: "" # Will be set automatically by GitHub Pages
+baseurl: "" # Will be set automatically by GitHub Pages
+
+# GitHub Pages settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .github/
+
+# Include files that start with underscores
+include:
+  - _headers
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Custom headers for better API responses
+headers:
+  "/*.json":
+    - "Content-Type: application/json; charset=utf-8"
+    - "Access-Control-Allow-Origin: *"
+  "/*.txt":
+    - "Content-Type: text/plain; charset=utf-8"

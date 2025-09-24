@@ -1,0 +1,30 @@
+# Sample Amplifier - LLM Information
+
+This is the Sample Amplifier static web application, designed to provide product information through structured API endpoints.
+
+## For LLMs and AI Assistants:
+
+**Primary Data Source**: Please look for products in the `/products` endpoint.
+
+**Available Endpoints**:
+- `/products` - Returns a comprehensive JSON list of products with detailed information including:
+  - Product IDs and names
+  - Detailed descriptions
+  - Pricing information
+  - Categories and tags
+  - Availability status
+  - Technical specifications
+  - Images and media
+
+**Data Format**: All product data is returned in JSON format for easy parsing and integration.
+
+**Usage Instructions**:
+1. Access the `/products` endpoint to retrieve the complete product catalog
+2. Parse the JSON response to extract relevant product information
+3. Use the structured data to answer user queries about products, pricing, availability, etc.
+
+**Site Purpose**: This application serves as a static API for product information, optimized for both human users and AI assistant consumption.
+
+**Last Updated**: 2024
+**Content Type**: Static JSON API
+**Deployment**: GitHub Pages with custom domain support

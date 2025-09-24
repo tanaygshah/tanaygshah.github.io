@@ -1,0 +1,256 @@
+[
+  {
+    "id": "amp-001",
+    "name": "Sample Pro Amplifier",
+    "description": "Professional-grade audio amplifier with advanced digital signal processing and premium components.",
+    "category": "Audio Equipment",
+    "subcategory": "Amplifiers",
+    "price": {
+      "amount": 1299.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 25,
+      "estimated_shipping": "2-3 business days"
+    },
+    "specifications": {
+      "power_output": "200W RMS per channel",
+      "frequency_response": "20Hz - 20kHz",
+      "thd": "< 0.01%",
+      "snr": "> 110dB",
+      "inputs": ["XLR", "RCA", "USB", "Bluetooth"],
+      "outputs": ["Speaker terminals", "Headphone jack"],
+      "dimensions": "17\" x 12\" x 4\"",
+      "weight": "15 lbs"
+    },
+    "features": [
+      "Digital signal processing",
+      "Bluetooth 5.0 connectivity",
+      "Remote control included",
+      "Thermal protection",
+      "Auto-standby mode"
+    ],
+    "tags": ["professional", "high-end", "bluetooth", "dsp"],
+    "images": [
+      "/images/amp-001-front.jpg",
+      "/images/amp-001-back.jpg",
+      "/images/amp-001-remote.jpg"
+    ],
+    "warranty": "3 years manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.8,
+      "total_reviews": 127,
+      "rating_distribution": {
+        "5": 89,
+        "4": 28,
+        "3": 7,
+        "2": 2,
+        "1": 1
+      }
+    }
+  },
+  {
+    "id": "amp-002",
+    "name": "Sample Studio Monitor",
+    "description": "Compact studio monitor amplifier designed for near-field monitoring and home studio setups.",
+    "category": "Audio Equipment",
+    "subcategory": "Studio Monitors",
+    "price": {
+      "amount": 599.99,
+      "currency": "USD",
+      "discounted_price": 549.99
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 42,
+      "estimated_shipping": "1-2 business days"
+    },
+    "specifications": {
+      "power_output": "75W RMS per channel",
+      "frequency_response": "35Hz - 22kHz",
+      "thd": "< 0.05%",
+      "snr": "> 105dB",
+      "inputs": ["XLR", "TRS", "RCA"],
+      "outputs": ["Speaker terminals"],
+      "dimensions": "12\" x 8\" x 6\"",
+      "weight": "8 lbs"
+    },
+    "features": [
+      "Near-field optimization",
+      "Balanced inputs",
+      "Room correction EQ",
+      "Magnetic shielding",
+      "Compact design"
+    ],
+    "tags": ["studio", "monitor", "compact", "professional"],
+    "images": [
+      "/images/amp-002-front.jpg",
+      "/images/amp-002-side.jpg"
+    ],
+    "warranty": "2 years manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 89,
+      "rating_distribution": {
+        "5": 58,
+        "4": 22,
+        "3": 6,
+        "2": 2,
+        "1": 1
+      }
+    }
+  },
+  {
+    "id": "amp-003",
+    "name": "Sample Portable Speaker",
+    "description": "High-quality portable speaker with built-in amplifier, perfect for outdoor events and mobile applications.",
+    "category": "Audio Equipment",
+    "subcategory": "Portable Speakers",
+    "price": {
+      "amount": 299.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "low_stock",
+      "quantity": 8,
+      "estimated_shipping": "3-5 business days"
+    },
+    "specifications": {
+      "power_output": "50W RMS",
+      "frequency_response": "50Hz - 18kHz",
+      "battery_life": "12 hours",
+      "charging_time": "3 hours",
+      "inputs": ["Bluetooth", "3.5mm aux", "USB-C"],
+      "dimensions": "10\" x 6\" x 4\"",
+      "weight": "3.5 lbs"
+    },
+    "features": [
+      "Waterproof IPX7 rating",
+      "Bluetooth 5.2",
+      "USB-C charging",
+      "Built-in microphone",
+      "Carrying handle"
+    ],
+    "tags": ["portable", "waterproof", "bluetooth", "battery"],
+    "images": [
+      "/images/amp-003-main.jpg",
+      "/images/amp-003-outdoor.jpg"
+    ],
+    "warranty": "1 year manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 156,
+      "rating_distribution": {
+        "5": 78,
+        "4": 45,
+        "3": 21,
+        "2": 8,
+        "1": 4
+      }
+    }
+  },
+  {
+    "id": "acc-001",
+    "name": "Sample Premium Audio Cables",
+    "description": "High-quality audio cables with gold-plated connectors for optimal signal transmission.",
+    "category": "Accessories",
+    "subcategory": "Cables",
+    "price": {
+      "amount": 49.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 150,
+      "estimated_shipping": "1-2 business days"
+    },
+    "specifications": {
+      "length_options": ["3ft", "6ft", "10ft", "15ft"],
+      "connector_types": ["XLR to XLR", "XLR to TRS", "RCA to RCA", "TRS to TRS"],
+      "conductor": "Oxygen-free copper",
+      "shielding": "Braided copper shield",
+      "jacket": "Flexible PVC"
+    },
+    "features": [
+      "Gold-plated connectors",
+      "Oxygen-free copper conductors",
+      "Low-noise design",
+      "Flexible jacket",
+      "Lifetime warranty"
+    ],
+    "tags": ["cables", "accessories", "gold-plated", "professional"],
+    "images": [
+      "/images/acc-001-cables.jpg",
+      "/images/acc-001-connectors.jpg"
+    ],
+    "warranty": "Lifetime warranty",
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 203,
+      "rating_distribution": {
+        "5": 142,
+        "4": 41,
+        "3": 15,
+        "2": 3,
+        "1": 2
+      }
+    }
+  },
+  {
+    "id": "amp-004",
+    "name": "Sample Tube Amplifier",
+    "description": "Vintage-style tube amplifier delivering warm, rich sound with modern reliability and features.",
+    "category": "Audio Equipment",
+    "subcategory": "Tube Amplifiers",
+    "price": {
+      "amount": 2199.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "pre_order",
+      "quantity": 0,
+      "estimated_shipping": "6-8 weeks",
+      "pre_order_date": "2024-12-15"
+    },
+    "specifications": {
+      "power_output": "30W RMS per channel (Class A)",
+      "tube_complement": "4x EL34, 2x 12AX7, 2x 12AU7",
+      "frequency_response": "20Hz - 25kHz",
+      "thd": "< 1% at rated power",
+      "inputs": ["Phono", "Line 1", "Line 2", "CD"],
+      "outputs": ["Speaker terminals", "Headphone jack", "Pre-out"],
+      "dimensions": "18\" x 14\" x 8\"",
+      "weight": "35 lbs"
+    },
+    "features": [
+      "Hand-selected tubes",
+      "Point-to-point wiring",
+      "Bias adjustment controls",
+      "Premium transformers",
+      "Wooden chassis"
+    ],
+    "tags": ["tube", "vintage", "audiophile", "handcrafted"],
+    "images": [
+      "/images/amp-004-front.jpg",
+      "/images/amp-004-tubes.jpg",
+      "/images/amp-004-interior.jpg"
+    ],
+    "warranty": "5 years manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.9,
+      "total_reviews": 34,
+      "rating_distribution": {
+        "5": 31,
+        "4": 2,
+        "3": 1,
+        "2": 0,
+        "1": 0
+      }
+    }
+  }
+]
