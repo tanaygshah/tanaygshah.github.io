@@ -10,29 +10,29 @@
     "basic_info": {
       "product_id": "elevar-arc-racer",
       "product_name": "Elevar ARC Racer",
-      "product_url": "https://elevarsports.com/products/elevar-arc-racer",
+      "product_url": "httpsthats awes://elevarsports.com/products/elevar-arc-racer",
       "brand": "Elevar Sports",
       "category": "Athletic Footwear",
       "subcategory": "Multi-Purpose Running Shoes"
     },
     "enhanced_content": {
       "ai_optimized_description": {
-        "primary": "Technical multi-purpose athletic sneaker engineered with RYDEFOAM® eTPU midsole technology and AEROKNIT® 3D knitted upper construction. Features 32mm stack height with 10mm heel drop for responsive cushioning and energy return. Designed for running, training, trekking, sports activities, and daily wear with 360-degree support system including foam locks, TPU heel stabilizer, and mid-foot support elements.",
+        "primary": "A technical multi-purpose sports shoe, specially made with RYDEFOAM® eTPU midsole for great comfort and bounce, and an AEROKNIT® 3D knitted upper. It has a 32mm stack height and a 10mm heel drop. Perfect for running, training, trekking, sports, and daily use. Comes with a 360-degree support system with foam locks, a TPU heel stabilizer, and mid-foot support for a snug fit.",
         "structured": {
           "features": [
-            "RYDEFOAM® eTPU midsole with 32mm stack height",
-            "AEROKNIT® 3D knitted fabric upper construction",
-            "360° support system with foam locks and TPU heel piece",
-            "Mid-foot stabilizers for lateral support",
-            "Double loop lace mechanism for secure fit",
-            "10mm heel-to-toe drop for natural foot motion"
+            "RYDEFOAM® eTPU sole with 32mm height for extra comfort",
+            "AEROKNIT® 3D knitted fabric on top for a sock-like fit",
+            "360° support with foam locks and a strong TPU heel",
+            "Support on the sides of the foot to prevent twisting",
+            "Double loop laces for a tight, secure fit",
+            "10mm heel drop for a natural walking and running style"
           ],
           "benefits": [
-            "Responsive cushioning for impact absorption during high-impact activities",
-            "Breathable sock-like fit reduces moisture buildup",
-            "Multi-directional support prevents foot fatigue during extended wear",
-            "Versatile design suitable for multiple activity types",
-            "Energy return technology improves performance efficiency"
+            "Great cushioning to protect your feet during running or jumping",
+            "Breathable material for a sock-like fit that keeps your feet from sweating",
+            "Supports your foot from all sides so you don't get tired easily",
+            "Use it for many activities, from sports to daily wear",
+            "Get more bounce in every step to improve your performance"
           ],
           "specifications": [
             "Stack height: 32mm",
@@ -44,7 +44,7 @@
           ]
         }
       },
-      "original_description": "A versatile, all-purpose sneaker designed for comfort and a wide range of activities. It features a RYDEFOAM® sole for responsive cushioning and an AEROKNIT® upper for a breathable, sock-like fit."
+      "original_description": "A sneaker that can be used for many things, designed for comfort in lots of activities. It has a RYDEFOAM® sole for good bounce and comfort, and an AEROKNIT® top for a breathable, sock-like fit."
     },
     "attributes": {
       "extracted_materials": {
@@ -70,59 +70,59 @@
         "weight": {"value": 280, "unit": "grams", "estimated": true}
       },
       "care_instructions": [
-        "Remove excess dirt with soft brush before cleaning",
-        "Clean with damp cloth and mild soap solution",
-        "Air dry at room temperature away from direct sunlight",
-        "Do not machine wash or tumble dry",
-        "Store in well-ventilated area when not in use",
-        "Replace when tread pattern shows significant wear"
+        "Use a soft brush to remove any loose dirt before cleaning",
+        "Wipe with a damp cloth and some mild soap",
+        "Let them dry naturally in a cool place, away from the sun",
+        "Don't put them in the washing machine or dryer",
+        "Keep them in a place with good air flow when you're not wearing them",
+        "Change the shoes when the sole looks worn out"
       ],
       "certifications": [],
       "safety_info": [
         "Suitable for ages 16 and above",
-        "Not recommended for individuals with severe foot conditions without medical consultation",
-        "Ensure proper fit to prevent blisters and discomfort"
+        "If you have serious foot problems, please ask a doctor before using",
+        "Make sure the shoe fits well to avoid blisters and pain"
       ]
     },
     "faqs": [
       {
-        "question": "What activities is the ARC Racer best suited for?",
-        "answer": "The ARC Racer is designed for running, trekking, training, sports activities, and daily wear. Its versatile design with RYDEFOAM® technology makes it suitable for both high-impact activities and casual use.",
+        "question": "What is the ARC Racer best for?",
+        "answer": "The ARC Racer is great for running, trekking, training, sports, and even just for daily use. Because it's so versatile and has RYDEFOAM®, you can use it for heavy activities like running or just for walking around.",
         "category": "usage"
       },
       {
-        "question": "What makes RYDEFOAM® technology different from regular foam?",
-        "answer": "RYDEFOAM® uses expanded thermoplastic polyurethane (eTPU) which provides superior energy return, durability, and responsiveness compared to traditional EVA foam. It maintains performance across temperature variations and offers consistent cushioning over time.",
+        "question": "What's special about RYDEFOAM® technology?",
+        "answer": "RYDEFOAM® is made from a special material called eTPU. It gives you better bounce, lasts longer, and feels more responsive than regular EVA foam in most shoes. It works well in different temperatures and stays comfortable for a long time.",
         "category": "technical"
       },
       {
-        "question": "How does the AEROKNIT® upper provide breathability?",
-        "answer": "AEROKNIT® is a 3D knitted fabric technology that creates micro-ventilation channels throughout the upper, allowing air circulation while maintaining structural integrity. This reduces moisture buildup and provides a sock-like comfortable fit.",
+        "question": "How does the AEROKNIT® material keep feet cool?",
+        "answer": "AEROKNIT® is a special 3D knitted material with tiny holes that let air flow in and out. This keeps your feet from getting too sweaty and gives you a comfortable, sock-like fit.",
         "category": "technical"
       },
       {
-        "question": "What is the heel drop and why does it matter?",
-        "answer": "The ARC Racer has a 10mm heel drop (difference between heel and toe height). This promotes a natural foot strike pattern, making it suitable for both heel and midfoot strikers while providing adequate cushioning.",
+        "question": "What is heel drop and why is it important?",
+        "answer": "The heel of the ARC Racer is 10mm higher than the toe. This helps you run and walk more naturally, whether you land on your heel or the middle of your foot. It also provides good cushioning.",
         "category": "technical"
       },
       {
-        "question": "How should I care for my ARC Racer shoes?",
-        "answer": "Clean with a damp cloth and mild soap, air dry away from direct sunlight, and avoid machine washing. Remove dirt with a soft brush and store in a ventilated area when not in use.",
+        "question": "How do I clean my ARC Racer shoes?",
+        "answer": "Use a soft brush to get rid of any dirt. Clean them with a damp cloth and some mild soap. Let them dry naturally away from sunlight. Don't machine wash them. Keep them in a place with good air flow.",
         "category": "care"
       },
       {
-        "question": "What size should I choose for the best fit?",
-        "answer": "The ARC Racer uses UK sizing. The AEROKNIT® upper provides a sock-like fit, so choose your normal UK size. The double loop lacing system allows for customized fit adjustment.",
+        "question": "What size should I get?",
+        "answer": "We use UK sizing. The top part of the shoe gives a sock-like fit, so your usual UK size should be perfect. You can also adjust the fit with the double loop laces.",
         "category": "sizing"
       },
       {
-        "question": "Can I use these shoes for gym workouts?",
-        "answer": "Yes, the 360° support system with mid-foot stabilizers makes the ARC Racer suitable for gym training, including lateral movements, weightlifting, and cardio exercises.",
+        "question": "Are these shoes good for the gym?",
+        "answer": "Yes, definitely! The 360° support system and side stabilizers make these shoes great for gym workouts, including side-to-side movements, lifting weights, and cardio.",
         "category": "usage"
       },
       {
-        "question": "How long do these shoes typically last?",
-        "answer": "With regular use (3-4 times per week), the ARC Racer typically lasts 400-500 miles or 6-8 months. The eTPU RYDEFOAM® technology maintains cushioning properties longer than traditional foam materials.",
+        "question": "How long will these shoes last?",
+        "answer": "If you use them regularly (3-4 times a week), they should last for about 6-8 months. The eTPU RYDEFOAM® technology maintains cushioning properties longer than traditional foam materials.",
         "category": "general"
       }
     ],
@@ -153,7 +153,7 @@
       },
       "telugu": {
         "product_name": "ఎలెవర్ ఆర్క్ రేసర్",
-        "description": "RYDEFOAM® eTPU మిడ్‌సోల్ టెక్నాలజీ మరియు AEROKNIT® 3D నిట్టెడ్ అప్పర్‌తో ఇంజనీర్ చేయబడిన టెక్నికల్ మల్టీ-పర్పస్ అథ్లెటిక్ షూ. రన్నింగ్, ట్రైనింగ్, ట్రెక్కింగ్ మరియు రోజువారీ ధరణకు రూపొందించబడింది.",
+        "description": "RYDEFOAM® eTPU మిడ్‌సోల్ టెక్నాలజీ మరియు AEROKNIT® 3D నిట్టెడ్ అప్పర్‌తో ఇంజినియర్ చేయబడిన టెక్నికల్ మల్టీ-పర్పస్ అథ్లెటిక్ షూ. రన్నింగ్, ట్రైనింగ్, ట్రెక్కింగ్ మరియు రోజువారీ ధరణకు రూపొందించబడింది.",
         "key_features": [
           "RYDEFOAM® eTPU మిడ్‌సోల్ టెక్నాలజీ",
           "AEROKNIT® 3D నిట్టెడ్ ఫ్యాబ్రిక్ అప్పర్",
@@ -165,15 +165,15 @@
       },
       "kannada": {
         "product_name": "ಎಲೆವರ್ ಆರ್ಕ್ ರೇಸರ್",
-        "description": "RYDEFOAM® eTPU ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು AEROKNIT® 3D ನಿಟ್ಟೆಡ್ ಅಪ್ಪರ್‌ನೊಂದಿಗೆ ಇಂಜಿನಿಯರ್ ಮಾಡಲಾದ ತಾಂತ್ರಿಕ ಬಹುಉದ್ದೇಶ ಅಥ್ಲೆಟಿಕ್ ಶೂ. ಓಟ, ತರಬೇತಿ, ಟ್ರೆಕ್ಕಿಂಗ್ ಮತ್ತು ದೈನಂದಿನ ಧರಿಸುವಿಕೆಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.",
+        "description": "RYDEFOAM® eTPU ಮಿಡ್‌ಸೋಲ్ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು AEROKNIT® 3D ನಿಟ్ಟೆಡ್ ಅಪ్ಪರ್‌ನೊಂದಿಗೆ ಇಂಜಿನಿಯರ్ ಮಾಡಲಾದ ತಾಂತ್ರಿಕ ಬಹುಉದ್ದೇಶ ಅಥ್ಲೆಟಿಕ್ ಶೂ. ಓಟ, ತರಬೇತಿ, ಟ್ರೆಕ್ಕಿಂಗ್ ಮತ್ತು ದೈನಂದಿನ ಧರಿಸುವಿಕೆಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.",
         "key_features": [
           "RYDEFOAM® eTPU ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ",
-          "AEROKNIT® 3D ನಿಟ್ಟೆಡ್ ಫ್ಯಾಬ್ರಿಕ್ ಅಪ್ಪರ್",
+          "AEROKNIT® 3D ನಿಟ్ಟೆಡ್ ಫ್ಯಾಬ್ರಿಕ್ ಅಪ్ಪರ್",
           "360° ಸಪೋರ್ಟ್ ಸಿಸ್ಟಮ್",
           "TPU ಹೀಲ್ ಸ್ಟೆಬಿಲೈಜರ್",
           "ಡಬಲ್ ಲೂಪ್ ಲೇಸಿಂಗ್ ಸಿಸ್ಟಮ್"
         ],
-        "activities": ["ಓಟ", "ಟ್ರೆಕ್ಕಿಂಗ್", "ತರಬೇತಿ", "ಕ್ರೀಡೆಗಳು", "ದೈನಂದಿನ ಧರಿಸುವಿಕೆ"]
+        "activities": ["ಓಟ", "ಟ್ರೆಕ్ಕಿಂಗ్", "ತರಬೇತಿ", "ಕ್ರೀಡೆಗಳು", "ದೈನಂದಿನ ಧರಿಸುವಿಕೆ"]
       },
       "bengali": {
         "product_name": "এলেভার আর্ক রেসার",
@@ -214,41 +214,45 @@
     "ai_search_optimization": {
       "primary_keywords": [
         "running shoes",
-        "athletic sneakers",
+        "sports shoes",
         "RYDEFOAM technology",
-        "breathable running shoes",
-        "multi-purpose sports shoes",
+        "running shoes for sweaty feet",
+        "all-rounder sports shoes",
         "eTPU midsole shoes",
-        "training sneakers",
-        "comfortable athletic footwear"
+        "training shoes",
+        "comfortable sports shoes",
+        "best running shoes India",
+        "sports shoes for men"
       ],
       "secondary_keywords": [
-        "daily wear sneakers",
+        "shoes for daily use",
         "gym shoes",
         "trekking shoes",
-        "responsive cushioning",
+        "good bounce shoes",
         "energy return shoes",
-        "knitted upper shoes",
+        "knitted shoes",
         "supportive running shoes",
-        "versatile athletic shoes"
+        "all purpose sports shoes",
+        "shoes for jogging",
+        "walking shoes"
       ],
       "long_tail_queries": [
-        "best running shoes for daily training and gym workouts",
-        "comfortable athletic shoes with responsive cushioning technology",
-        "breathable sneakers suitable for Indian climate and humidity",
-        "multi-purpose shoes for running trekking and daily wear",
-        "shoes with energy return technology for better performance",
-        "athletic footwear with 360 degree support system",
-        "running shoes with knitted upper for sock-like fit",
-        "durable training shoes that last 400-500 miles"
+        "best running shoes for daily use and gym",
+        "comfortable sports shoes with good bounce",
+        "shoes that don't make feet sweat in Indian weather",
+        "one shoe for running, trekking and daily use",
+        "shoes with bounce for better performance",
+        "sports shoes with all-round support",
+        "running shoes with sock fit",
+        "long lasting training shoes"
       ],
       "synonyms": {
-        "sneaker": ["shoe", "footwear", "athletic shoe", "sports shoe", "trainer"],
-        "cushioning": ["padding", "comfort", "shock absorption", "impact protection"],
-        "breathable": ["ventilated", "airy", "moisture-wicking", "well-ventilated"],
-        "responsive": ["reactive", "energy-returning", "bouncy", "springy"],
-        "support": ["stability", "reinforcement", "structure", "foundation"],
-        "versatile": ["multi-purpose", "all-around", "flexible", "adaptable"]
+        "sneaker": ["shoe", "footwear", "sports shoe", "trainer", "joota"],
+        "cushioning": ["padding", "comfort", "shock absorption", "soft sole", "aram"],
+        "breathable": ["ventilated", "airy", "cool", " हवादार"],
+        "responsive": ["reactive", "bouncy", "springy", "good bounce"],
+        "support": ["stability", "strong grip", "balance"],
+        "versatile": ["multi-purpose", "all-rounder", "can be used for many things"]
       },
       "intent_tags": [
         "performance",
@@ -274,44 +278,44 @@
     "usage_intelligence": {
       "use_cases": [
         {
-          "scenario": "Morning jog in urban parks or residential areas",
+          "scenario": "Morning jog in the park or your society",
           "suitability": "excellent",
-          "reasoning": "RYDEFOAM® eTPU provides optimal energy return for consistent pacing, while breathable upper manages heat buildup during extended runs",
+          "reasoning": "RYDEFOAM® gives you good bounce for a steady run, and the breathable material keeps your feet cool even on long runs.",
           "environment": "outdoor",
           "context": "sports"
         },
         {
-          "scenario": "Gym training sessions including cardio and strength training",
+          "scenario": "Gym workouts, including cardio and weight training",
           "suitability": "very_good",
-          "reasoning": "360° support system with mid-foot stabilizers provides stability for lateral movements, while cushioning handles impact from jumping exercises",
+          "reasoning": "The 360° support system and side stabilizers give you good grip for side-to-side movements, and the cushioning is great for jumping exercises.",
           "environment": "indoor",
           "context": "sports"
         },
         {
-          "scenario": "Daily office commute and casual wear",
+          "scenario": "Daily commute to office and for casual outings",
           "suitability": "very_good",
-          "reasoning": "Sock-like fit and breathable construction ensure all-day comfort, while versatile design pairs well with casual business attire",
+          "reasoning": "The sock-like fit and breathable material keep you comfortable all day. Its stylish design looks good with casual office wear.",
           "environment": "both",
           "context": "casual"
         },
         {
-          "scenario": "Weekend trekking and hiking on moderate trails",
+          "scenario": "Weekend treks and hikes on easy trails",
           "suitability": "good",
-          "reasoning": "Supportive construction and durable materials handle varied terrain, though specialized hiking boots recommended for technical trails",
+          "reasoning": "These shoes are strong and supportive enough for different paths, but for very difficult treks, proper hiking boots are better.",
           "environment": "outdoor",
           "context": "sports"
         },
         {
-          "scenario": "Long distance running and marathon training",
+          "scenario": "Long runs and marathon training",
           "suitability": "excellent",
-          "reasoning": "eTPU technology maintains cushioning properties over extended distances, 10mm drop promotes efficient running gait",
+          "reasoning": "The eTPU material keeps the shoes comfortable even on long runs. The 10mm drop helps with an efficient running style.",
           "environment": "outdoor",
           "context": "professional"
         },
         {
-          "scenario": "College campus daily walking and activities",
+          "scenario": "College campus daily walking",
           "suitability": "excellent",
-          "reasoning": "Comfortable for extended wear, stylish enough for social settings, durable enough for daily use",
+          "reasoning": "Comfortable for walking around all day, stylish for hanging out with friends, and durable for daily use.",
           "environment": "both",
           "context": "casual"
         }
@@ -381,6 +385,7 @@
       {
         "variant_id": "39409990205525",
         "sku": "ELEV-ARC-CB-UK9",
+        "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Men_ARC_Racer_Carbon_Black_Side_Angle_60c24a84-c726-4c6f-88c1-cf8b6853ef8a.png?v=1743689843",
         "color": {
           "name": "Carbon Black",
           "hex": "#2C2C2C",
@@ -418,6 +423,7 @@
       {
         "variant_id": "39409990172757",
         "sku": "ELEV-ARC-BLU-UK9",
+        "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Men_ARC_Racer_Cobalt_Blue_Side_Angle_06371994-f1b1-48f1-9768-ca627515fb2b.png?v=1743689843",
         "color": {
           "name": "Cobalt Blue",
           "hex": "#0047AB",
@@ -478,22 +484,22 @@
       },
       "enhanced_content": {
         "ai_optimized_description": {
-          "primary": "Minimal design everyday sneaker engineered with HYPERFOAM midsole technology for lightweight comfort during daily activities. Features light, airy knit upper construction with 10cm heel height for enhanced comfort and style. Designed specifically for casual outings and daily wear with focus on comfort and versatility.",
+          "primary": "A simple and stylish everyday sneaker with a super light HYPERFOAM sole for all-day comfort. It has a light, airy knit material on top and a 10cm heel height for a bit of style. Perfect for casual outings and daily wear, focusing on comfort.",
           "structured": {
             "features": [
-              "HYPERFOAM midsole technology for lightweight cushioning",
-              "Light and airy knit fabric upper construction",
+              "HYPERFOAM sole for lightweight comfort",
+              "Light and airy knit material on top",
               "10cm heel height for comfort and style",
-              "Minimal design aesthetic for versatile styling",
-              "Lightweight construction for all-day wear",
-              "Breathable upper for moisture management"
+              "Simple design that goes with everything",
+              "Very lightweight for all-day wear",
+              "Breathable material to keep feet fresh"
             ],
             "benefits": [
-              "Lightweight comfort reduces foot fatigue during extended wear",
-              "Breathable construction prevents moisture buildup",
-              "Minimal design pairs well with various casual outfits",
-              "Comfortable for daily adventures and urban exploration",
-              "Easy slip-on style for convenience"
+              "So light, your feet won't get tired",
+              "Breathable material keeps your feet from sweating",
+              "Simple design matches with most casual clothes",
+              "Comfortable for walking around the city all day",
+              "Easy to slip on and go"
             ],
             "specifications": [
               "Heel height: 10cm",
@@ -504,7 +510,7 @@
             ]
           }
         },
-        "original_description": "A minimal yet radical everyday sneaker delivering lightweight comfort for daily adventures. Features a HYPERFOAM midsole and a light, airy knit upper."
+        "original_description": "A simple but stylish everyday sneaker for lightweight comfort on your daily adventures. It has a HYPERFOAM sole and a light, airy knit top."
       },
       "attributes": {
         "extracted_materials": {
@@ -524,53 +530,53 @@
           "weight": {"value": 220, "unit": "grams", "estimated": true}
         },
         "care_instructions": [
-          "Clean with soft brush to remove surface dirt",
-          "Use mild soap and water for deeper cleaning",
-          "Air dry in well-ventilated area away from direct heat",
-          "Avoid machine washing to preserve knit upper integrity",
-          "Store in dry place when not in use"
+          "Use a soft brush to remove surface dirt",
+          "Use mild soap and water for a deeper clean",
+          "Let them air dry in a well-ventilated area, away from direct heat",
+          "Avoid machine washing to protect the knit material",
+          "Keep them in a dry place when not in use"
         ],
         "certifications": [],
         "safety_info": [
           "Suitable for ages 16 and above",
-          "Not recommended for high-impact sports activities",
-          "Ensure proper fit for optimal comfort"
+          "Not meant for heavy sports or running",
+          "Make sure they fit well for the best comfort"
         ]
       },
       "faqs": [
         {
-          "question": "What makes the Men's Dayscape different from running shoes?",
-          "answer": "The Men's Dayscape is designed specifically for daily wear and casual activities, not high-impact sports. It features a lighter HYPERFOAM midsole and minimal design focused on comfort and style rather than performance.",
+          "question": "How is the Men's Dayscape different from running shoes?",
+          "answer": "The Men's Dayscape is made for daily casual wear, not for sports. It has a lighter HYPERFOAM sole and a simple design that focuses on comfort and style, not performance.",
           "category": "general"
         },
         {
-          "question": "Is the HYPERFOAM technology suitable for all-day wear?",
-          "answer": "Yes, HYPERFOAM is specifically designed for lightweight comfort during extended daily wear. It provides adequate cushioning for walking and casual activities without the bulk of performance running shoes.",
+          "question": "Is HYPERFOAM good for wearing all day?",
+          "answer": "Yes, HYPERFOAM is made to be lightweight and comfortable for wearing all day long. It gives you enough cushioning for walking and other casual activities.",
           "category": "technical"
         },
         {
           "question": "What does the 10cm heel height mean?",
-          "answer": "The 10cm heel height refers to the overall height of the heel area, providing additional comfort and a slight elevation for better posture during daily wear.",
+          "answer": "The 10cm heel height is the height of the heel area, which gives some extra comfort and a little lift for better posture.",
           "category": "technical"
         },
         {
-          "question": "Can I wear these for workouts?",
-          "answer": "The Men's Dayscape is designed for casual wear and light activities. For intensive workouts or running, we recommend the ARC Racer or Hyperflo models which offer more support and performance features.",
+          "question": "Can I use these for workouts?",
+          "answer": "The Men's Dayscape is for casual wear and light activities. For gym workouts or running, we suggest our ARC Racer or Hyperflo shoes, which have more support and performance features.",
           "category": "usage"
         },
         {
-          "question": "How should I style these sneakers?",
-          "answer": "The minimal design makes them versatile for casual outfits. They pair well with jeans, chinos, casual trousers, and even some business casual looks. Perfect for college, casual office environments, and weekend outings.",
+          "question": "How can I style these sneakers?",
+          "answer": "Their simple design makes them easy to pair with casual outfits. They look great with jeans, chinos, and casual trousers. They are perfect for college, a casual day at the office, or weekend outings.",
           "category": "general"
         },
         {
-          "question": "Are these suitable for long walks?",
-          "answer": "Yes, the lightweight HYPERFOAM midsole and comfortable knit upper make them suitable for extended walking and daily adventures around the city.",
+          "question": "Are they good for long walks?",
+          "answer": "Yes, the light HYPERFOAM sole and comfortable knit material make them great for long walks around the city.",
           "category": "usage"
         },
         {
-          "question": "How do I clean the knit upper?",
-          "answer": "Use a soft brush for surface cleaning and mild soap with water for deeper cleaning. Avoid machine washing and let them air dry naturally to preserve the knit fabric integrity.",
+          "question": "How do I clean the knit material?",
+          "answer": "Use a soft brush to remove any surface dirt. For a deeper clean, use mild soap and water. Don't wash them in a machine, and let them air dry to keep the knit material safe.",
           "category": "care"
         }
       ],
@@ -613,10 +619,10 @@
         },
         "kannada": {
           "product_name": "ಮೆನ್ಸ್ ಡೇಸ್ಕೇಪ್",
-          "description": "ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳಿಗೆ ಹಗುರವಾದ ಸೌಕರ್ಯದೊಂದಿಗೆ ಕನಿಷ್ಠ ವಿನ್ಯಾಸದ ದೈನಂದಿನ ಧರಿಸುವ ಶೂ. HYPERFOAM ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಅಪ್ಪರ್‌ನೊಂದಿಗೆ.",
+          "description": "ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳಿಗೆ ಹಗುರವಾದ ಸೌಕರ్ಯದೊಂದಿಗೆ ಕನಿಷ್ಠ ವಿನ್ಯಾಸದ ದೈನಂದಿನ ಧರಿಸುವ ಶೂ. HYPERFOAM ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಅಪ్ಪರ್‌ನೊಂದಿಗೆ.",
           "key_features": [
             "HYPERFOAM ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ",
-            "ಹಗುರವಾದ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಫ್ಯಾಬ್ರಿಕ್ ಅಪ್ಪರ್",
+            "ಹಗುರವಾದ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಫ್ಯಾಬ್ರಿಕ್ ಅಪ్ಪರ್",
             "10cm ಹೀಲ್ ಎತ್ತರ",
             "ಕನಿಷ್ಠ ವಿನ್ಯಾಸ",
             "ಹಗುರವಾದ ನಿರ್ಮಾಣ"
@@ -665,35 +671,36 @@
           "daily wear shoes",
           "lightweight sneakers",
           "HYPERFOAM technology",
-          "minimal design shoes",
+          "simple design shoes",
           "everyday sneakers",
-          "comfortable casual shoes"
+          "comfortable casual shoes",
+          "casual shoes for men India"
         ],
         "secondary_keywords": [
           "college shoes",
           "office casual sneakers",
           "weekend shoes",
-          "knit upper shoes",
-          "breathable casual footwear",
-          "white sneakers",
-          "blue casual shoes",
-          "black everyday shoes"
+          "knit shoes",
+          "breathable casual shoes",
+          "white sneakers men",
+          "blue casual shoes men",
+          "black everyday shoes men"
         ],
         "long_tail_queries": [
           "best casual sneakers for daily wear and college",
-          "comfortable lightweight shoes for office casual dress code",
-          "minimal design sneakers suitable for Indian urban lifestyle",
-          "breathable everyday shoes for warm climate and city walking",
-          "stylish casual footwear for weekend outings and social events",
-          "comfortable shoes for extended daily wear and commuting",
-          "lightweight sneakers with knit upper for all-day comfort"
+          "comfortable lightweight shoes for office casual wear",
+          "simple design sneakers for Indian city life",
+          "breathable everyday shoes for hot weather",
+          "stylish casual shoes for weekend outings",
+          "comfortable shoes for daily commute",
+          "lightweight sneakers with knit material for all-day comfort"
         ],
         "synonyms": {
-          "casual": ["everyday", "informal", "relaxed", "laid-back"],
-          "minimal": ["simple", "clean", "understated", "sleek"],
-          "lightweight": ["light", "featherweight", "ultra-light", "airy"],
-          "comfortable": ["cozy", "cushioned", "soft", "pleasant"],
-          "daily": ["everyday", "routine", "regular", "constant"]
+          "casual": ["everyday", "daily", "relaxed", "regular wear"],
+          "minimal": ["simple", "clean", "basic", "sleek"],
+          "lightweight": ["light", "feather-light", "not heavy", "airy"],
+          "comfortable": ["cozy", "cushioned", "soft", "aramdayak"],
+          "daily": ["everyday", "routine", "regular", "roz"]
         },
         "intent_tags": [
           "casual_lifestyle",
@@ -717,44 +724,44 @@
       "usage_intelligence": {
         "use_cases": [
           {
-            "scenario": "College campus daily activities and classes",
+            "scenario": "Daily use on college campus",
             "suitability": "excellent",
-            "reasoning": "Comfortable for long hours of walking between classes, stylish enough for social interactions, lightweight for extended wear",
+            "reasoning": "Comfortable for walking between classes all day, stylish enough for hanging out with friends, and light enough for long wear.",
             "environment": "both",
             "context": "casual"
           },
           {
-            "scenario": "Office casual dress code environments",
+            "scenario": "For casual dress code at the office",
             "suitability": "very_good",
-            "reasoning": "Clean minimal design pairs well with business casual attire, comfortable for office environments, professional yet relaxed appearance",
+            "reasoning": "The simple, clean design looks good with business casual clothes. They are comfortable for wearing in the office and look professional yet relaxed.",
             "environment": "indoor",
             "context": "professional"
           },
           {
-            "scenario": "Weekend social outings and casual dates",
+            "scenario": "Weekend outings and casual dates",
             "suitability": "excellent",
-            "reasoning": "Versatile styling works with various casual outfits, comfortable for extended social activities, trendy minimal aesthetic",
+            "reasoning": "Their versatile style goes with many casual outfits. They are comfortable for long social activities and have a trendy, simple look.",
             "environment": "both",
             "context": "casual"
           },
           {
-            "scenario": "Urban commuting and city walking",
+            "scenario": "Daily commute and walking in the city",
             "suitability": "very_good",
-            "reasoning": "Lightweight construction reduces fatigue during commuting, breathable for warm climates, comfortable for daily transportation needs",
+            "reasoning": "Being lightweight, they don't make your feet tired during a commute. They are breathable, which is great for warm weather, and comfortable for daily travel.",
             "environment": "outdoor",
             "context": "casual"
           },
           {
-            "scenario": "Shopping and leisure activities",
+            "scenario": "Shopping and other leisure activities",
             "suitability": "excellent",
-            "reasoning": "All-day comfort for extended shopping trips, stylish appearance for social settings, easy to pair with various outfits",
+            "reasoning": "Comfortable all day for long shopping trips. They look stylish and are easy to pair with different outfits.",
             "environment": "both",
             "context": "casual"
           },
           {
-            "scenario": "Light exercise and casual sports",
+            "scenario": "Light exercise like walking",
             "suitability": "fair",
-            "reasoning": "Suitable for light activities like casual walks, but not designed for intensive sports or running activities",
+            "reasoning": "Good for casual walks, but not designed for heavy sports or running.",
             "environment": "both",
             "context": "casual"
           }
@@ -824,6 +831,7 @@
         {
           "variant_id": "40296309784661",
           "sku": "ELEV-DAY-GB-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Galaxy_Blue_Side_Angle_c5e46ee5-4c38-4ef8-a013-0466ce9fdc75.jpg?v=1753106828",
           "color": {
             "name": "Galaxy Blue",
             "hex": "#4169E1",
@@ -856,6 +864,7 @@
         {
           "variant_id": "40296309817429",
           "sku": "ELEV-DAY-GW-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Glacier_White_Side_Angle_af17dfbb-c3fc-46a8-87ea-0a3d2802b400.jpg?v=1753106828",
           "color": {
             "name": "Glacier White",
             "hex": "#F8F8FF",
@@ -888,6 +897,7 @@
         {
           "variant_id": "40296309751893",
           "sku": "ELEV-DAY-CB-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Carbon_Black_Side_Angle_1b30a282-deba-48e3-a4db-bda3d3514fc9.jpg?v=1753106828",
           "color": {
             "name": "Carbon Black",
             "hex": "#2C2C2C",
@@ -930,23 +940,23 @@
       },
       "enhanced_content": {
         "ai_optimized_description": {
-          "primary": "High-performance workout sneaker engineered with HYPERFOAM cushioning technology and engineered mesh upper for maximum breathability during intensive training sessions. Features supportive lace-cage system for secure fit and stability during dynamic movements. Designed specifically for fitness enthusiasts who demand performance, comfort, and breathability during workouts and training activities.",
+          "primary": "A high-performance workout sneaker made with HYPERFOAM cushioning and a special engineered mesh top for maximum airflow during intense training. It has a supportive lace-cage system for a secure fit and stability during quick movements. Designed for fitness lovers who need performance, comfort, and breathability in their workout shoes.",
           "structured": {
             "features": [
-              "HYPERFOAM cushioning technology for responsive shock absorption",
-              "Engineered mesh upper for maximum breathability and ventilation",
-              "Supportive lace-cage system for secure fit and stability",
-              "Dynamic movement optimization for multi-directional training",
-              "Lightweight construction for agility and speed",
-              "Moisture-wicking properties for dry comfort during workouts"
+              "HYPERFOAM cushioning for great shock absorption",
+              "Engineered mesh top for maximum airflow",
+              "Supportive lace-cage system for a secure and stable fit",
+              "Made for multi-directional training",
+              "Lightweight design for speed and agility",
+              "Keeps feet dry and comfortable during workouts"
             ],
             "benefits": [
-              "Superior breathability prevents overheating during intensive workouts",
-              "Responsive cushioning reduces impact stress on joints",
-              "Secure lace-cage system prevents foot slippage during lateral movements",
-              "Lightweight design enhances agility and performance",
-              "Engineered for high-intensity training and fitness activities",
-              "Moisture management keeps feet dry and comfortable"
+              "Superior airflow keeps your feet cool during tough workouts",
+              "Good cushioning reduces stress on your joints",
+              "Secure lace-cage system stops your foot from slipping during side-to-side movements",
+              "Lightweight design helps you move faster",
+              "Made for high-intensity training and fitness activities",
+              "Keeps your feet dry and comfortable"
             ],
             "specifications": [
               "Midsole: HYPERFOAM cushioning technology",
@@ -957,7 +967,7 @@
             ]
           }
         },
-        "original_description": "A workout sneaker crafted for those who loathe staying still, offering breathability and comfort with a HYPERFOAM sole and engineered mesh upper."
+        "original_description": "A workout sneaker for people who love to stay active. It offers great breathability and comfort with a HYPERFOAM sole and an engineered mesh top."
       },
       "attributes": {
         "extracted_materials": {
@@ -981,40 +991,40 @@
           "weight": {"value": 260, "unit": "grams", "estimated": true}
         },
         "care_instructions": [
-          "Remove insoles and laces before cleaning",
-          "Clean mesh upper with soft brush and mild detergent",
-          "Rinse thoroughly with clean water",
-          "Air dry in well-ventilated area away from direct heat",
-          "Avoid machine washing to preserve mesh structure",
-          "Replace when cushioning loses responsiveness"
+          "Take out insoles and laces before cleaning",
+          "Clean the mesh top with a soft brush and mild soap",
+          "Rinse well with clean water",
+          "Let them air dry in a place with good airflow, away from direct heat",
+          "Don't machine wash, to protect the mesh material",
+          "Replace them when the cushioning feels less bouncy"
         ],
         "certifications": [],
         "safety_info": [
           "Suitable for ages 16 and above",
-          "Designed specifically for fitness and training activities",
-          "Ensure proper fit to prevent injury during high-intensity workouts",
-          "Not recommended for casual daily wear due to specialized design"
+          "Specially designed for fitness and training activities",
+          "Make sure they fit well to avoid injury during intense workouts",
+          "Not recommended for casual daily wear as they are specialized for workouts"
         ]
       },
       "faqs": [
         {
-          "question": "What makes the Men's Hyperflo different from casual sneakers?",
-          "answer": "The Men's Hyperflo is specifically engineered for workout and training activities with HYPERFOAM technology for impact absorption, engineered mesh for maximum breathability, and a lace-cage system for secure fit during dynamic movements.",
+          "question": "How is the Men's Hyperflo different from casual sneakers?",
+          "answer": "The Men's Hyperflo is made specifically for workouts. It has HYPERFOAM for impact absorption, engineered mesh for breathability, and a lace-cage system for a secure fit during quick movements.",
           "category": "general"
         },
         {
-          "question": "What types of workouts are these shoes best for?",
-          "answer": "The Men's Hyperflo excels in gym workouts, HIIT training, weightlifting, cardio sessions, cross-training, and any fitness activities requiring lateral movement support and breathability.",
+          "question": "What kind of workouts are these shoes good for?",
+          "answer": "The Men's Hyperflo is excellent for gym workouts, HIIT, weightlifting, cardio, cross-training, and any fitness activity that needs side-to-side movement support and breathability.",
           "category": "usage"
         },
         {
-          "question": "How does the lace-cage system work?",
-          "answer": "The supportive lace-cage system provides additional structural support around the midfoot and heel area, preventing foot slippage and ensuring secure fit during dynamic training movements.",
+          "question": "How does the lace-cage system help?",
+          "answer": "The lace-cage system gives extra support around the middle of your foot and heel. This prevents your foot from slipping and keeps it secure during quick training movements.",
           "category": "technical"
         },
         {
           "question": "Can I use these for running?",
-          "answer": "While suitable for treadmill running and cardio, the Men's Hyperflo is optimized for gym workouts and training. For dedicated running, consider the ARC Racer which is designed specifically for running activities.",
+          "answer": "They are good for running on a treadmill as part of a workout, but they are designed for gym training. For long-distance running, our ARC Racer is a better choice.",
           "category": "usage"
         }
       ],
@@ -1044,7 +1054,7 @@
         "primary_keywords": [
           "workout shoes",
           "training sneakers",
-          "gym shoes",
+          "gym shoes India",
           "HYPERFOAM technology",
           "fitness sneakers",
           "exercise shoes",
@@ -1057,7 +1067,7 @@
           "cross-training shoes",
           "HIIT workout shoes",
           "cardio sneakers",
-          "weightlifting shoes"
+          "weightlifting shoes men"
         ],
         "intent_tags": [
           "fitness_performance",
@@ -1070,23 +1080,23 @@
       "usage_intelligence": {
         "use_cases": [
           {
-            "scenario": "High-intensity interval training (HIIT) sessions",
+            "scenario": "High-Intensity Interval Training (HIIT) workouts",
             "suitability": "excellent",
-            "reasoning": "HYPERFOAM cushioning absorbs high-impact movements, engineered mesh provides cooling, lace-cage system ensures foot security",
+            "reasoning": "The HYPERFOAM cushioning absorbs impact from high-intensity moves, the engineered mesh keeps your feet cool, and the lace-cage system keeps your foot secure.",
             "environment": "indoor",
             "context": "sports"
           },
           {
             "scenario": "Weightlifting and strength training",
             "suitability": "very_good",
-            "reasoning": "Supportive lace-cage system provides stability for heavy lifting, lightweight design doesn't add bulk",
+            "reasoning": "The supportive lace-cage system gives you stability for heavy lifts, and the lightweight design doesn't feel bulky.",
             "environment": "indoor",
             "context": "sports"
           },
           {
             "scenario": "Cross-training and functional fitness",
             "suitability": "excellent",
-            "reasoning": "Engineered for multi-directional movement, breathable mesh handles varied intensity levels",
+            "reasoning": "Made for movements in all directions, and the breathable mesh is great for workouts of varying intensity.",
             "environment": "indoor",
             "context": "sports"
           }
@@ -1107,6 +1117,7 @@
         {
           "variant_id": "40129203929173",
           "sku": "ELEV-HYP-GB-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/files/3_7a2a71af-909a-4f68-9bb8-9aef7b73e62a.jpg?v=1749533645",
           "color": {
             "name": "Galaxy Blue",
             "hex": "#4169E1",
@@ -1139,6 +1150,7 @@
         {
           "variant_id": "40129203961941",
           "sku": "ELEV-HYP-AD-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/files/hyperflo_dayscape_revised_ecom_6.jpg?v=1749533645",
           "color": {
             "name": "After Dark",
             "hex": "#1C1C1C",
