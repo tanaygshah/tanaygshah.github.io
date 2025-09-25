@@ -18,6 +18,7 @@ include:
   - _headers
   - "*.json"
   - "*.txt"
+  - ".well-known"
 
 # Markdown settings
 markdown: kramdown
