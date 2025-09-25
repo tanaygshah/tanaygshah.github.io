@@ -4,7 +4,18 @@ Allow: /
 # Sitemap location
 Sitemap: https://tanaygshah.github.io/sitemap.xml
 
-# Allow indexing of API endpoints
+# Allow indexing of API endpoints and LLM discovery files
 Allow: /llms.txt
+Allow: /.well-known/
+Allow: /.well-known/llms.txt
 Allow: /sneakers.json
 Allow: /flipflops.json
+
+# Explicitly allow Bing and ChatGPT crawlers
+User-agent: bingbot
+Allow: /
+Allow: /.well-known/llms.txt
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /.well-known/llms.txt

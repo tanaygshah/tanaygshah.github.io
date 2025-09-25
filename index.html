@@ -4,7 +4,58 @@
     <meta name="msvalidate.01" content="10E9E609C4D988958B47582AFEEDC0AE" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amplifier For Elevar</title>
+    <title>Elevar Amplifier - AI Agent API for Footwear Catalogs</title>
+    <meta name="description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs. Includes LLM discovery file at /.well-known/llms.txt for ChatGPT and other AI systems.">
+    <meta name="keywords" content="AI API, LLM discovery, footwear catalog, sneakers API, flip flops API, ChatGPT integration, AI agent endpoints">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://tanaygshah.github.io/">
+    <link rel="llms" href="/.well-known/llms.txt" />
+    
+    <!-- Open Graph tags for better social sharing and indexing -->
+    <meta property="og:title" content="Elevar Amplifier - AI Agent API for Footwear Catalogs">
+    <meta property="og:description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs with LLM discovery support.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tanaygshah.github.io/">
+    
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Elevar Amplifier - AI Agent API">
+    <meta name="twitter:description" content="AI-friendly API endpoints for footwear catalogs with LLM discovery file.">
+    
+    <!-- JSON-LD Structured Data for better search engine understanding -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebAPI",
+      "name": "Elevar Amplifier API",
+      "description": "Static API endpoints for AI agents to access footwear product catalogs",
+      "url": "https://tanaygshah.github.io/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Elevar Sports"
+      },
+      "documentation": "/.well-known/llms.txt",
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://tanaygshah.github.io/sneakers.json"
+          },
+          "query-input": "name=sneakers"
+        },
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://tanaygshah.github.io/flipflops.json"
+          },
+          "query-input": "name=flipflops"
+        }
+      ]
+    }
+    </script>
+    
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
@@ -103,6 +154,10 @@
         </div>
     </div>
 
+    <div class="footer">
+        <p>Deployed on GitHub Pages | Static Web Application</p>
+        <p><a href="/.well-known/llms.txt" style="color: #667eea; text-decoration: none;">AI Agent API Index</a></p>
+    </div>
 
     <script>
         // Handle client-side routing for clean URLs
