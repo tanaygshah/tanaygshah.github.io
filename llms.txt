@@ -17,9 +17,20 @@ Language: English, Hindi
 Currency: INR
 
 # AI-Optimized Data Endpoints
-Product-Catalog: /product.json
+Sneakers-Catalog: /sneakers_products.json
+Flip-Flops-Catalog: /flipflop_products.json
 Sitemap: /sitemap.xml
 Contact: support@elevarsports.com
 License: CC-BY-4.0
 
-# Last Updated: 2025-09-24
+# Product Categories
+Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see sneakers_products.json
+Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see flipflop_products.json
+
+# Ordering Information
+Order-URL: [PLACEHOLDER - Add ordering/checkout URL here]
+Support-URL: [PLACEHOLDER - Add customer support URL here]
+Shipping: Free shipping across India for orders above ₹3000
+Returns: 7-day exchanges available on all orders
+
+# Last Updated: 2025-09-25
