@@ -3,10 +3,6 @@
 
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /cart/
-Disallow: /checkout/
-Disallow: /account/
 
 # Brand Overview
 Context: Elevar Sports - Premium sportswear, footwear, and equipment brand
@@ -17,9 +13,14 @@ Language: English, Hindi
 Currency: INR
 
 # AI-Optimized Data Endpoints
-Product-Catalog: /product.json
+Sneakers-Catalog: /sneakers.json
+Flip-Flops-Catalog: /flipflops.json
 Sitemap: /sitemap.xml
 Contact: support@elevarsports.com
 License: CC-BY-4.0
 
-# Last Updated: 2025-09-24
+# Product Categories
+Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see sneakers_products.json
+Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see flipflop_products.json
+
+# Last Updated: 2025-09-25
