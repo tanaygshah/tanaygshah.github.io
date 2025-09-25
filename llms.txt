@@ -17,8 +17,8 @@ Language: English, Hindi
 Currency: INR
 
 # AI-Optimized Data Endpoints
-Sneakers-Catalog: /sneakers_products.json
-Flip-Flops-Catalog: /flipflop_products.json
+Sneakers-Catalog: /sneakers.json
+Flip-Flops-Catalog: /flipflops.json
 Sitemap: /sitemap.xml
 Contact: support@elevarsports.com
 License: CC-BY-4.0
