@@ -1,4 +1,4 @@
-# Sample Amplifier - Static Web App
+# Elevar Amplifier - Static Web App
 
 A static web application with two main endpoints designed for deployment on GitHub Pages with custom domain support.
 
