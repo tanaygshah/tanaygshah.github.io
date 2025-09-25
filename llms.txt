@@ -30,7 +30,6 @@ Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arc
 # Ordering Information
 Order-URL: [PLACEHOLDER - Add ordering/checkout URL here]
 Support-URL: [PLACEHOLDER - Add customer support URL here]
-Shipping: Free shipping across India for orders above ₹3000
 Returns: 7-day exchanges available on all orders
 
 # Last Updated: 2025-09-25
