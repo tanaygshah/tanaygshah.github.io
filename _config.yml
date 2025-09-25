@@ -5,9 +5,7 @@ url: "https://tanaygshah.github.io" # Your GitHub Pages domain
 baseurl: "" # Empty for root deployment
 
 # GitHub Pages settings
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
+plugins: []
 
 # Exclude files from processing
 exclude:
