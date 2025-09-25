@@ -1,0 +1,155 @@
+[
+  {
+    "id": "snk-001",
+    "name": "AirMax Pro Runner",
+    "description": "Premium running sneakers with advanced cushioning technology and breathable mesh upper.",
+    "category": "Footwear",
+    "subcategory": "Running Shoes",
+    "price": {
+      "amount": 149.99,
+      "currency": "USD",
+      "discounted_price": 129.99
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 45,
+      "estimated_shipping": "1-2 business days"
+    },
+    "specifications": {
+      "material": "Mesh upper with synthetic overlays",
+      "sole": "Rubber outsole with air cushioning",
+      "closure": "Lace-up",
+      "heel_height": "1.2 inches",
+      "weight": "10.5 oz (size 9)",
+      "sizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "colors": ["Black/White", "Navy/Gray", "Red/Black", "All White"]
+    },
+    "features": [
+      "Air cushioning technology",
+      "Breathable mesh upper",
+      "Lightweight design",
+      "Durable rubber outsole",
+      "Moisture-wicking lining"
+    ],
+    "tags": ["running", "athletic", "comfortable", "lightweight"],
+    "images": [
+      "/images/snk-001-side.jpg",
+      "/images/snk-001-top.jpg",
+      "/images/snk-001-sole.jpg"
+    ],
+    "warranty": "1 year manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 234,
+      "rating_distribution": {
+        "5": 156,
+        "4": 52,
+        "3": 18,
+        "2": 6,
+        "1": 2
+      }
+    }
+  },
+  {
+    "id": "snk-002",
+    "name": "Urban Street Classic",
+    "description": "Retro-inspired street sneakers with premium leather construction and vintage styling.",
+    "category": "Footwear",
+    "subcategory": "Casual Shoes",
+    "price": {
+      "amount": 89.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 32,
+      "estimated_shipping": "2-3 business days"
+    },
+    "specifications": {
+      "material": "Premium leather upper",
+      "sole": "Vulcanized rubber sole",
+      "closure": "Lace-up",
+      "heel_height": "0.8 inches",
+      "weight": "12 oz (size 9)",
+      "sizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "colors": ["White", "Black", "Brown", "Navy"]
+    },
+    "features": [
+      "Premium leather construction",
+      "Vintage-inspired design",
+      "Padded collar and tongue",
+      "Durable vulcanized sole",
+      "Classic lace-up closure"
+    ],
+    "tags": ["casual", "leather", "vintage", "street-style"],
+    "images": [
+      "/images/snk-002-side.jpg",
+      "/images/snk-002-top.jpg",
+      "/images/snk-002-detail.jpg"
+    ],
+    "warranty": "6 months manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 89,
+      "rating_distribution": {
+        "5": 52,
+        "4": 25,
+        "3": 8,
+        "2": 3,
+        "1": 1
+      }
+    }
+  },
+  {
+    "id": "snk-003",
+    "name": "Performance Basketball High",
+    "description": "High-top basketball sneakers with superior ankle support and responsive cushioning.",
+    "category": "Footwear",
+    "subcategory": "Basketball Shoes",
+    "price": {
+      "amount": 179.99,
+      "currency": "USD",
+      "discounted_price": 159.99
+    },
+    "availability": {
+      "status": "limited_stock",
+      "quantity": 12,
+      "estimated_shipping": "3-5 business days"
+    },
+    "specifications": {
+      "material": "Synthetic leather with mesh panels",
+      "sole": "High-traction rubber outsole",
+      "closure": "Lace-up with ankle strap",
+      "heel_height": "1.5 inches",
+      "weight": "14 oz (size 9)",
+      "sizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13"],
+      "colors": ["Black/Red", "White/Blue", "Gray/Orange"]
+    },
+    "features": [
+      "High-top ankle support",
+      "Responsive foam cushioning",
+      "Herringbone traction pattern",
+      "Reinforced toe cap",
+      "Adjustable ankle strap"
+    ],
+    "tags": ["basketball", "high-top", "performance", "support"],
+    "images": [
+      "/images/snk-003-side.jpg",
+      "/images/snk-003-back.jpg",
+      "/images/snk-003-sole.jpg"
+    ],
+    "warranty": "1 year manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.7,
+      "total_reviews": 156,
+      "rating_distribution": {
+        "5": 112,
+        "4": 32,
+        "3": 8,
+        "2": 3,
+        "1": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ff-001",
+    "name": "Beach Comfort Classic",
+    "description": "Ultra-comfortable flip flops with cushioned footbed and durable rubber straps.",
+    "category": "Footwear",
+    "subcategory": "Sandals",
+    "price": {
+      "amount": 24.99,
+      "currency": "USD",
+      "discounted_price": 19.99
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 78,
+      "estimated_shipping": "1-2 business days"
+    },
+    "specifications": {
+      "material": "EVA foam footbed with rubber straps",
+      "sole": "Non-slip rubber outsole",
+      "closure": "Slip-on",
+      "heel_height": "0.5 inches",
+      "weight": "4 oz (size 9)",
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["Black", "Navy", "Brown", "Gray", "Blue"]
+    },
+    "features": [
+      "Cushioned EVA footbed",
+      "Water-resistant materials",
+      "Non-slip sole",
+      "Lightweight design",
+      "Easy slip-on style"
+    ],
+    "tags": ["beach", "casual", "comfortable", "water-resistant"],
+    "images": [
+      "/images/ff-001-top.jpg",
+      "/images/ff-001-side.jpg",
+      "/images/ff-001-sole.jpg"
+    ],
+    "warranty": "90 days manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.3,
+      "total_reviews": 312,
+      "rating_distribution": {
+        "5": 189,
+        "4": 87,
+        "3": 24,
+        "2": 8,
+        "1": 4
+      }
+    }
+  },
+  {
+    "id": "ff-002",
+    "name": "Premium Leather Sandal",
+    "description": "Luxury flip flops crafted from genuine leather with contoured footbed for all-day comfort.",
+    "category": "Footwear",
+    "subcategory": "Sandals",
+    "price": {
+      "amount": 59.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 34,
+      "estimated_shipping": "2-3 business days"
+    },
+    "specifications": {
+      "material": "Genuine leather straps with cork footbed",
+      "sole": "Rubber outsole with leather trim",
+      "closure": "Slip-on",
+      "heel_height": "0.7 inches",
+      "weight": "6 oz (size 9)",
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["Tan", "Black", "Dark Brown"]
+    },
+    "features": [
+      "Genuine leather construction",
+      "Contoured cork footbed",
+      "Arch support",
+      "Durable rubber sole",
+      "Premium craftsmanship"
+    ],
+    "tags": ["leather", "premium", "comfort", "arch-support"],
+    "images": [
+      "/images/ff-002-top.jpg",
+      "/images/ff-002-side.jpg",
+      "/images/ff-002-detail.jpg"
+    ],
+    "warranty": "1 year manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.6,
+      "total_reviews": 127,
+      "rating_distribution": {
+        "5": 89,
+        "4": 28,
+        "3": 7,
+        "2": 2,
+        "1": 1
+      }
+    }
+  },
+  {
+    "id": "ff-003",
+    "name": "Sport Active Flip",
+    "description": "Athletic flip flops designed for active lifestyles with enhanced grip and quick-dry materials.",
+    "category": "Footwear",
+    "subcategory": "Athletic Sandals",
+    "price": {
+      "amount": 34.99,
+      "currency": "USD",
+      "discounted_price": 29.99
+    },
+    "availability": {
+      "status": "in_stock",
+      "quantity": 56,
+      "estimated_shipping": "1-2 business days"
+    },
+    "specifications": {
+      "material": "Quick-dry synthetic straps with textured footbed",
+      "sole": "High-grip rubber outsole",
+      "closure": "Slip-on",
+      "heel_height": "0.6 inches",
+      "weight": "5 oz (size 9)",
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["Black/Red", "Navy/White", "Gray/Orange", "All Black"]
+    },
+    "features": [
+      "Quick-dry materials",
+      "Enhanced grip sole",
+      "Textured footbed",
+      "Athletic design",
+      "Chlorine resistant"
+    ],
+    "tags": ["athletic", "quick-dry", "grip", "pool-ready"],
+    "images": [
+      "/images/ff-003-top.jpg",
+      "/images/ff-003-sole.jpg",
+      "/images/ff-003-action.jpg"
+    ],
+    "warranty": "6 months manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.4,
+      "total_reviews": 203,
+      "rating_distribution": {
+        "5": 134,
+        "4": 48,
+        "3": 15,
+        "2": 4,
+        "1": 2
+      }
+    }
+  },
+  {
+    "id": "ff-004",
+    "name": "Eco-Friendly Natural",
+    "description": "Sustainable flip flops made from recycled materials with natural hemp straps.",
+    "category": "Footwear",
+    "subcategory": "Eco Sandals",
+    "price": {
+      "amount": 39.99,
+      "currency": "USD",
+      "discounted_price": null
+    },
+    "availability": {
+      "status": "limited_stock",
+      "quantity": 18,
+      "estimated_shipping": "3-5 business days"
+    },
+    "specifications": {
+      "material": "Recycled rubber sole with hemp fiber straps",
+      "sole": "100% recycled rubber",
+      "closure": "Slip-on",
+      "heel_height": "0.4 inches",
+      "weight": "4.5 oz (size 9)",
+      "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+      "colors": ["Natural", "Earth Brown", "Ocean Blue"]
+    },
+    "features": [
+      "100% recycled materials",
+      "Hemp fiber straps",
+      "Biodegradable footbed",
+      "Carbon neutral shipping",
+      "Eco-friendly packaging"
+    ],
+    "tags": ["eco-friendly", "sustainable", "recycled", "hemp"],
+    "images": [
+      "/images/ff-004-top.jpg",
+      "/images/ff-004-materials.jpg",
+      "/images/ff-004-packaging.jpg"
+    ],
+    "warranty": "1 year manufacturer warranty",
+    "reviews": {
+      "average_rating": 4.5,
+      "total_reviews": 94,
+      "rating_distribution": {
+        "5": 67,
+        "4": 19,
+        "3": 6,
+        "2": 1,
+        "1": 1
+      }
+    }
+  }
+]

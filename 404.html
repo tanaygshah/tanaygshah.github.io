@@ -80,11 +80,7 @@
         document.addEventListener('DOMContentLoaded', function() {
             const path = window.location.pathname;
             
-            // Handle /products endpoint - redirect to JSON file
-            if (path === '/products') {
-                window.location.replace('/products.json');
-                return;
-            }
+            // Products endpoint no longer needs redirect - links go directly to .json
             
             // Handle /llms.txt endpoint
             if (path === '/llms.txt') {
@@ -110,7 +106,8 @@
             <h3>Available Endpoints:</h3>
             <ul>
                 <li><a href="/llms.txt">/llms.txt</a> - LLM information</li>
-                <li><a href="/products">/products</a> - Product JSON data</li>
+                <li><a href="/sneakers.json">/sneakers.json</a> - Sneakers catalog</li>
+                <li><a href="/flipflops.json">/flipflops.json</a> - Flip flops catalog</li>
             </ul>
         </div>
     </div>

@@ -79,7 +79,7 @@
 <body>
     <div class="header">
         <h1>Sample Amplifier</h1>
-        <p>Static API Endpoints for Product Information</p>
+        <p>Static API Endpoints for Footwear Catalogs</p>
     </div>
 
     <div class="endpoints">
@@ -90,9 +90,15 @@
         </div>
 
         <div class="endpoint">
-            <h3>/products</h3>
-            <p>JSON API endpoint containing detailed product information including specifications, pricing, and availability.</p>
-            <a href="/products">View Products JSON</a>
+            <h3>/sneakers</h3>
+            <p>JSON API endpoint with detailed sneaker catalog including running shoes, casual sneakers, and basketball shoes.</p>
+            <a href="/sneakers.json">View Sneakers JSON</a>
+        </div>
+
+        <div class="endpoint">
+            <h3>/flipflops</h3>
+            <p>JSON API endpoint with flip flop catalog including beach sandals, premium leather, and eco-friendly options.</p>
+            <a href="/flipflops.json">View Flip Flops JSON</a>
         </div>
     </div>
 
@@ -103,12 +109,8 @@
     <script>
         // Handle client-side routing for clean URLs
         document.addEventListener('DOMContentLoaded', function() {
-            const path = window.location.pathname;
-            
-            // Redirect /products to /products.json for actual JSON data
-            if (path === '/products' && !window.location.search.includes('redirect=false')) {
-                window.location.href = '/products.json';
-            }
+            // No redirects needed - links go directly to correct endpoints
+            console.log('Sample Amplifier loaded');
         });
     </script>
 </body>
