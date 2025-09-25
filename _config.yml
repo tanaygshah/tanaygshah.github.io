@@ -1,7 +1,7 @@
 # Jekyll configuration for GitHub Pages
 title: "Sample Amplifier"
-description: "Static API endpoints for product information"
-url: "https://tanaygshah.github.io" # Your root domain
+description: "Static API endpoints for footwear catalogs - sneakers and flip flops"
+url: "https://tanaygshah.github.io" # Your GitHub Pages domain
 baseurl: "" # Empty for root deployment
 
 # GitHub Pages settings
@@ -15,9 +15,11 @@ exclude:
   - .gitignore
   - .github/
 
-# Include files that start with underscores
+# Include files that start with underscores and static files
 include:
   - _headers
+  - "*.json"
+  - "*.txt"
 
 # Markdown settings
 markdown: kramdown
