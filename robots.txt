@@ -2,14 +2,14 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://tanaygshah.github.io/sitemap.xml
+Sitemap: https://elevar-amplify.elastic.run/sitemap.xml
 
 # Allow indexing of API endpoints and LLM discovery files
 Allow: /llms.txt
 Allow: /.well-known/
 Allow: /.well-known/llms.txt
-Allow: /sneakers.json
-Allow: /flipflops.json
+Allow: /sneakers.txt
+Allow: /flipflops.txt
 
 # Explicitly allow Bing and ChatGPT crawlers
 User-agent: bingbot

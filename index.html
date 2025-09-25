@@ -8,14 +8,14 @@
     <meta name="description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs. Includes LLM discovery file at /.well-known/llms.txt for ChatGPT and other AI systems.">
     <meta name="keywords" content="AI API, LLM discovery, footwear catalog, sneakers API, flip flops API, ChatGPT integration, AI agent endpoints">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://tanaygshah.github.io/">
+    <link rel="canonical" href="https://elevar-amplify.elastic.run/">
     <link rel="llms" href="/.well-known/llms.txt" />
     
     <!-- Open Graph tags for better social sharing and indexing -->
     <meta property="og:title" content="Elevar Amplifier - AI Agent API for Footwear Catalogs">
     <meta property="og:description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs with LLM discovery support.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://tanaygshah.github.io/">
+    <meta property="og:url" content="https://elevar-amplify.elastic.run/">
     
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary">
@@ -29,7 +29,7 @@
       "@type": "WebAPI",
       "name": "Elevar Amplifier API",
       "description": "Static API endpoints for AI agents to access footwear product catalogs",
-      "url": "https://tanaygshah.github.io/",
+      "url": "https://elevar-amplify.elastic.run/",
       "provider": {
         "@type": "Organization",
         "name": "Elevar Sports"
@@ -40,7 +40,7 @@
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://tanaygshah.github.io/sneakers.json"
+            "urlTemplate": "https://elevar-amplify.elastic.run/sneakers.txt"
           },
           "query-input": "name=sneakers"
         },
@@ -48,7 +48,7 @@
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://tanaygshah.github.io/flipflops.json"
+            "urlTemplate": "https://elevar-amplify.elastic.run/flipflops.txt"
           },
           "query-input": "name=flipflops"
         }
@@ -143,14 +143,14 @@
 
         <div class="endpoint">
             <h3>/sneakers</h3>
-            <p>JSON API endpoint with detailed sneaker catalog including running shoes, casual sneakers, and basketball shoes.</p>
-            <a href="/sneakers.json">View Sneakers JSON</a>
+            <p>Text API endpoint with detailed sneaker catalog including running shoes, casual sneakers, and basketball shoes.</p>
+            <a href="/sneakers.txt">View Sneakers Catalog</a>
         </div>
 
         <div class="endpoint">
             <h3>/flipflops</h3>
-            <p>JSON API endpoint with flip flop catalog including beach sandals, premium leather, and eco-friendly options.</p>
-            <a href="/flipflops.json">View Flip Flops JSON</a>
+            <p>Text API endpoint with flip flop catalog including beach sandals, premium leather, and eco-friendly options.</p>
+            <a href="/flipflops.txt">View Flip Flops Catalog</a>
         </div>
     </div>
 
