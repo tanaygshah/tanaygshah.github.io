@@ -3,10 +3,6 @@
 
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /cart/
-Disallow: /checkout/
-Disallow: /account/
 
 # Brand Overview
 Context: Elevar Sports - Premium sportswear, footwear, and equipment brand
