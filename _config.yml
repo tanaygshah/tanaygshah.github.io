@@ -1,6 +1,6 @@
 # Jekyll configuration for GitHub Pages
 title: "Elevar Amplifier"
-description: "Static API endpoints for footwear catalogs - sneakers and flip flops"
+description: "Enhanced Elevar product catalog for LLM interaction - sneakers and flip flops"
 url: "https://tanaygshah.github.io" # Your GitHub Pages domain
 baseurl: "" # Empty for root deployment
 

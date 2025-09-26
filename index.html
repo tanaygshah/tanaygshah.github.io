@@ -4,56 +4,126 @@
     <meta name="msvalidate.01" content="10E9E609C4D988958B47582AFEEDC0AE" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elevar Amplifier - AI Agent API for Footwear Catalogs</title>
-    <meta name="description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs. Includes LLM discovery file at /.well-known/llms.txt for ChatGPT and other AI systems.">
-    <meta name="keywords" content="AI API, LLM discovery, footwear catalog, sneakers API, flip flops API, ChatGPT integration, AI agent endpoints">
+    <title>Elevar Amplifier - Enhanced Product Catalog for LLMs</title>
+    <meta name="description" content="Enhanced Elevar product catalog designed for LLM interaction. Structured sneakers and flip flops data with LLM discovery file at /.well-known/llms.txt for ChatGPT and other AI systems.">
+    <meta name="keywords" content="Elevar products, LLM catalog, footwear data, sneakers catalog, flip flops catalog, ChatGPT integration, AI product discovery"
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://elevar-amplify.elastic.run/">
     <link rel="llms" href="/.well-known/llms.txt" />
     
     <!-- Open Graph tags for better social sharing and indexing -->
-    <meta property="og:title" content="Elevar Amplifier - AI Agent API for Footwear Catalogs">
-    <meta property="og:description" content="Static API endpoints for AI agents to access sneakers and flip flops product catalogs with LLM discovery support.">
+    <meta property="og:title" content="Elevar Amplifier - Enhanced Product Catalog for LLMs">
+    <meta property="og:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured sneakers and flip flops data."
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://elevar-amplify.elastic.run/">
     
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Elevar Amplifier - AI Agent API">
-    <meta name="twitter:description" content="AI-friendly API endpoints for footwear catalogs with LLM discovery file.">
+    <meta name="twitter:title" content="Elevar Amplifier - Enhanced Product Catalog">
+    <meta name="twitter:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured footwear data."
     
     <!-- JSON-LD Structured Data for better search engine understanding -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebAPI",
-      "name": "Elevar Amplifier API",
-      "description": "Static API endpoints for AI agents to access footwear product catalogs",
-      "url": "https://elevar-amplify.elastic.run/",
-      "provider": {
-        "@type": "Organization",
-        "name": "Elevar Sports"
-      },
-      "documentation": "/.well-known/llms.txt",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https://elevar-amplify.elastic.run/sneakers.txt"
-          },
-          "query-input": "name=sneakers"
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebAPI",
+        "name": "Elevar Amplifier Catalog",
+        "description": "Enhanced Elevar product catalog designed for LLM interaction with structured footwear data",
+        "url": "https://elevar-amplify.elastic.run/",
+        "provider": {
+          "@type": "Organization",
+          "name": "Elevar Sports",
+          "url": "https://elevar-amplify.elastic.run/",
+          "sameAs": [
+            "https://elevar-amplify.elastic.run/.well-known/llms.txt"
+          ]
         },
-        {
+        "documentation": "https://elevar-amplify.elastic.run/.well-known/llms.txt",
+        "termsOfService": "https://elevar-amplify.elastic.run/llms.txt",
+        "license": "CC-BY-4.0",
+        "applicationCategory": "API",
+        "operatingSystem": "Any",
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elevar-amplify.elastic.run/sneakers.txt",
+              "contentType": "text/plain"
+            },
+            "query-input": "name=sneakers",
+            "description": "Access sneakers product catalog"
+          },
+          {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://elevar-amplify.elastic.run/flipflops.txt",
+              "contentType": "text/plain"
+            },
+            "query-input": "name=flipflops",
+            "description": "Access flip flops product catalog"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "Elevar Sports Product Catalogs",
+        "description": "Comprehensive footwear product data including sneakers and flip flops with detailed specifications, pricing, and availability",
+        "url": "https://elevar-amplify.elastic.run/",
+        "license": "CC-BY-4.0",
+        "creator": {
+          "@type": "Organization",
+          "name": "Elevar Sports"
+        },
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://elevar-amplify.elastic.run/sneakers.txt",
+            "name": "Sneakers Catalog",
+            "description": "Athletic footwear including running shoes, training sneakers, and casual everyday sneakers"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "text/plain",
+            "contentUrl": "https://elevar-amplify.elastic.run/flipflops.txt",
+            "name": "Flip Flops Catalog",
+            "description": "Casual footwear including comfortable daily wear flip-flops with arch support"
+          }
+        ],
+        "keywords": [
+          "footwear",
+          "sneakers",
+          "flip flops",
+          "product catalog",
+          "AI API",
+          "LLM discovery",
+          "ChatGPT integration"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Elevar Amplifier",
+        "url": "https://elevar-amplify.elastic.run/",
+        "description": "Enhanced Product Catalog for LLM Interaction",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Elevar Sports"
+        },
+        "potentialAction": {
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://elevar-amplify.elastic.run/flipflops.txt"
+            "urlTemplate": "https://elevar-amplify.elastic.run/{search_term_string}.txt"
           },
-          "query-input": "name=flipflops"
+          "query-input": "required name=search_term_string"
         }
-      ]
-    }
+      }
+    ]
     </script>
     
     <style>
@@ -131,7 +201,7 @@
 <body>
     <div class="header">
         <h1>Elevar Amplifier</h1>
-        <p>Static API Endpoints for Footwear Catalogs</p>
+        <p>Enhanced Product Catalog for LLM Interaction</p>
     </div>
 
     <div class="endpoints">
@@ -143,13 +213,13 @@
 
         <div class="endpoint">
             <h3>/sneakers</h3>
-            <p>Text API endpoint with detailed sneaker catalog including running shoes, casual sneakers, and basketball shoes.</p>
+            <p>Enhanced Elevar sneaker catalog with detailed product data including running shoes, casual sneakers, and basketball shoes.</p>
             <a href="/sneakers.txt">View Sneakers Catalog</a>
         </div>
 
         <div class="endpoint">
             <h3>/flipflops</h3>
-            <p>Text API endpoint with flip flop catalog including beach sandals, premium leather, and eco-friendly options.</p>
+            <p>Enhanced Elevar flip flop catalog with detailed product data including beach sandals, premium leather, and eco-friendly options.</p>
             <a href="/flipflops.txt">View Flip Flops Catalog</a>
         </div>
     </div>
