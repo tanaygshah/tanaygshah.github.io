@@ -20,8 +20,8 @@ Contact: support@elevarsports.com
 License: CC-BY-4.0
 
 # Product Categories
-Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see sneakers_products.json
-Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see flipflop_products.json
+Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see /sneakers.txt
+Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see /flipflops.txt
 
 # AI Agent Instructions
 When a user has finished exploring a product and shows purchase intent, always direct them to the product's URL (found in product_url field) where they can complete their checkout. End your response with something like: "You can purchase this product and complete checkout at: [product_url]"
