@@ -1,0 +1,456 @@
+{
+      "basic_info": {
+        "product_id": "mens-dayscape",
+        "product_name": "Men's Dayscape",
+        "product_url": "https://elevarsports.com/products/mens-dayscape",
+        "brand": "Elevar Sports",
+        "category": "Athletic Footwear",
+        "subcategory": "Casual Everyday Sneakers"
+      },
+      "enhanced_content": {
+        "ai_optimized_description": {
+          "primary": "A simple and stylish everyday sneaker with a super light HYPERFOAM sole for all-day comfort. It has a light, airy knit material on top and a 10cm heel height for a bit of style. Perfect for casual outings and daily wear, focusing on comfort.",
+          "structured": {
+            "features": [
+              "HYPERFOAM sole for lightweight comfort",
+              "Light and airy knit material on top",
+              "10cm heel height for comfort and style",
+              "Simple design that goes with everything",
+              "Very lightweight for all-day wear",
+              "Breathable material to keep feet fresh"
+            ],
+            "benefits": [
+              "So light, your feet won't get tired",
+              "Breathable material keeps your feet from sweating",
+              "Simple design matches with most casual clothes",
+              "Comfortable for walking around the city all day",
+              "Easy to slip on and go"
+            ],
+            "specifications": [
+              "Heel height: 10cm",
+              "Upper material: Light airy knit fabric",
+              "Midsole: HYPERFOAM technology",
+              "Design: Minimal aesthetic",
+              "Weight: Ultra-lightweight construction"
+            ]
+          }
+        },
+        "original_description": "A simple but stylish everyday sneaker for lightweight comfort on your daily adventures. It has a HYPERFOAM sole and a light, airy knit top."
+      },
+      "attributes": {
+        "extracted_materials": {
+          "sole": {
+            "material": "HYPERFOAM",
+            "percentage": 100,
+            "properties": ["lightweight", "comfortable", "shock-absorbing", "durable"]
+          },
+          "upper": {
+            "material": "Light airy knit fabric",
+            "percentage": 100,
+            "properties": ["breathable", "flexible", "lightweight", "soft"]
+          }
+        },
+        "dimensions": {
+          "heel_height": {"value": 100, "unit": "mm", "estimated": false},
+          "weight": {"value": 220, "unit": "grams", "estimated": true}
+        },
+        "care_instructions": [
+          "Use a soft brush to remove surface dirt",
+          "Use mild soap and water for a deeper clean",
+          "Let them air dry in a well-ventilated area, away from direct heat",
+          "Avoid machine washing to protect the knit material",
+          "Keep them in a dry place when not in use"
+        ],
+        "certifications": [],
+        "safety_info": [
+          "Suitable for ages 16 and above",
+          "Not meant for heavy sports or running",
+          "Make sure they fit well for the best comfort"
+        ]
+      },
+      "faqs": [
+        {
+          "question": "How is the Men's Dayscape different from running shoes?",
+          "answer": "The Men's Dayscape is made for daily casual wear, not for sports. It has a lighter HYPERFOAM sole and a simple design that focuses on comfort and style, not performance.",
+          "category": "general"
+        },
+        {
+          "question": "Is HYPERFOAM good for wearing all day?",
+          "answer": "Yes, HYPERFOAM is made to be lightweight and comfortable for wearing all day long. It gives you enough cushioning for walking and other casual activities.",
+          "category": "technical"
+        },
+        {
+          "question": "What does the 10cm heel height mean?",
+          "answer": "The 10cm heel height is the height of the heel area, which gives some extra comfort and a little lift for better posture.",
+          "category": "technical"
+        },
+        {
+          "question": "Can I use these for workouts?",
+          "answer": "The Men's Dayscape is for casual wear and light activities. For gym workouts or running, we suggest our ARC Racer or Hyperflo shoes, which have more support and performance features.",
+          "category": "usage"
+        },
+        {
+          "question": "How can I style these sneakers?",
+          "answer": "Their simple design makes them easy to pair with casual outfits. They look great with jeans, chinos, and casual trousers. They are perfect for college, a casual day at the office, or weekend outings.",
+          "category": "general"
+        },
+        {
+          "question": "Are they good for long walks?",
+          "answer": "Yes, the light HYPERFOAM sole and comfortable knit material make them great for long walks around the city.",
+          "category": "usage"
+        },
+        {
+          "question": "How do I clean the knit material?",
+          "answer": "Use a soft brush to remove any surface dirt. For a deeper clean, use mild soap and water. Don't wash them in a machine, and let them air dry to keep the knit material safe.",
+          "category": "care"
+        }
+      ],
+      "localization": {
+        "hindi": {
+          "product_name": "मेन्स डेस्केप",
+          "description": "दैनिक गतिविधियों के लिए हल्के आराम के साथ न्यूनतम डिज़ाइन का रोज़ाना पहनने वाला जूता। HYPERFOAM मिडसोल तकनीक और हवादार बुनाई अपर के साथ।",
+          "key_features": [
+            "HYPERFOAM मिडसोल तकनीक",
+            "हल्की और हवादार बुनाई फैब्रिक अपर",
+            "10cm हील की ऊंचाई",
+            "न्यूनतम डिज़ाइन",
+            "हल्का निर्माण"
+          ],
+          "activities": ["दैनिक पहनावा", "आकस्मिक बाहर जाना"]
+        },
+        "marathi": {
+          "product_name": "मेन्स डेस्केप",
+          "description": "दैनंदिन क्रियाकलापांसाठी हलक्या आरामासह किमान डिझाइनचे दैनंदिन घालण्याचे बूट। HYPERFOAM मिडसोल तंत्रज्ञान आणि हवेशीर विणकाम अप्परसह।",
+          "key_features": [
+            "HYPERFOAM मिडसोल तंत्रज्ञान",
+            "हलके आणि हवेशीर विणकाम फॅब्रिक अप्पर",
+            "10cm टाचेची उंची",
+            "किमान डिझाइन",
+            "हलके बांधकाम"
+          ],
+          "activities": ["दैनंदिन वापर", "अनौपचारिक बाहेर पडणे"]
+        },
+        "telugu": {
+          "product_name": "మెన్స్ డేస్కేప్",
+          "description": "రోజువారీ కార్యకలాపాలకు తేలికపాటి సౌకర్యంతో కనిష్ట డిజైన్ రోజువారీ ధరించే షూ. HYPERFOAM మిడ్‌సోల్ టెక్నాలజీ మరియు గాలి పోసే నిట్ అప్పర్‌తో.",
+          "key_features": [
+            "HYPERFOAM మిడ్‌సోల్ టెక్నాలజీ",
+            "తేలికపాటి మరియు గాలి పోసే నిట్ ఫ్యాబ్రిక్ అప్పర్",
+            "10cm హీల్ ఎత్తు",
+            "కనిష్ట డిజైన్",
+            "తేలికపాటి నిర్మాణం"
+          ],
+          "activities": ["రోజువారీ ధరణ", "సాధారణ బయటకు వెళ్లడం"]
+        },
+        "kannada": {
+          "product_name": "మెನ్స్ డేಸ్కేಪ్",
+          "description": "ದೈನಂದಿನ ಚಟುವಟಿಕೆಗಳಿಗೆ ಹಗುರವಾದ ಸೌಕರ್ಯದೊಂದಿಗೆ ಕನಿಷ್ಠ ವಿನ್ಯಾಸದ ದೈನಂದಿನ ಧರಿಸುವ ಶೂ. HYPERFOAM ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಅಪ్పರ್‌ನೊಂದಿಗೆ.",
+          "key_features": [
+            "HYPERFOAM ಮಿಡ್‌ಸೋಲ್ ತಂತ್ರಜ್ಞಾನ",
+            "ಹಗುರವಾದ ಮತ್ತು ಗಾಳಿ ಹರಿಯುವ ನಿಟ್ ಫ್ಯಾಬ್ರಿಕ్ ಅಪ్పರ్",
+            "10cm ಹೀಲ್ ಎತ್ತರ",
+            "ಕನಿಷ್ಠ ವಿನ್ಯಾಸ",
+            "ಹಗುರವಾದ ನಿರ్ಮಾಣ"
+          ],
+          "activities": ["ದೈನಂದಿನ ಧರಿಸುವಿಕೆ", "ಸಾಮಾನ್ಯ ಹೊರಗೆ ಹೋಗುವಿಕೆ"]
+        },
+        "bengali": {
+          "product_name": "মেন্স ডেস্কেপ",
+          "description": "দৈনন্দিন কার্যকলাপের জন্য হালকা আরামের সাথে ন্যূনতম ডিজাইনের দৈনন্দিন পরিধানের জুতা। HYPERFOAM মিডসোল প্রযুক্তি এবং বায়ু চলাচলকারী নিট আপারের সাথে।",
+          "key_features": [
+            "HYPERFOAM মিডসোল প্রযুক্তি",
+            "হালকা এবং বায়ু চলাচলকারী নিট ফ্যাব্রিক আপার",
+            "10cm হিলের উচ্চতা",
+            "ন্যূনতম ডিজাইন",
+            "হালকা নির্মাণ"
+          ],
+          "activities": ["দৈনন্দিন পরিধান", "নৈমিত্তিক বাইরে যাওয়া"]
+        },
+        "regional_context": {
+          "sizing_note": "UK sizing standard. Designed for comfortable daily wear in urban Indian environments.",
+          "climate_suitability": "Breathable knit upper ideal for India's warm climate. Suitable for temperatures 20-40°C.",
+          "cultural_relevance": [
+            "Perfect for college and university casual dress codes",
+            "Suitable for casual office environments and co-working spaces",
+            "Ideal for weekend shopping and social gatherings",
+            "Good for casual dates and informal meetings"
+          ],
+          "local_use_cases": [
+            "Mumbai cafe hopping and street food tours",
+            "Delhi metro commuting and market visits",
+            "Bangalore tech park casual Fridays",
+            "Chennai mall visits and movie outings",
+            "Pune college campus daily wear"
+          ],
+          "regional_preferences": {
+            "north_india": ["Popular for winter casual wear", "Good for Delhi's casual social scene"],
+            "west_india": ["Ideal for Mumbai's casual lifestyle", "Perfect for Pune's college culture"],
+            "south_india": ["Suitable for Bangalore's tech casual dress code", "Good for Chennai's urban lifestyle"],
+            "east_india": ["Perfect for Kolkata's intellectual casual gatherings", "Suitable for cultural events"]
+          }
+        }
+      },
+      "ai_search_optimization": {
+        "primary_keywords": [
+          "casual sneakers",
+          "daily wear shoes",
+          "lightweight sneakers",
+          "HYPERFOAM technology",
+          "simple design shoes",
+          "everyday sneakers",
+          "comfortable casual shoes",
+          "casual shoes for men India"
+        ],
+        "secondary_keywords": [
+          "college shoes",
+          "office casual sneakers",
+          "weekend shoes",
+          "knit shoes",
+          "breathable casual shoes",
+          "white sneakers men",
+          "blue casual shoes men",
+          "black everyday shoes men"
+        ],
+        "long_tail_queries": [
+          "best casual sneakers for daily wear and college",
+          "comfortable lightweight shoes for office casual wear",
+          "simple design sneakers for Indian city life",
+          "breathable everyday shoes for hot weather",
+          "stylish casual shoes for weekend outings",
+          "comfortable shoes for daily commute",
+          "lightweight sneakers with knit material for all-day comfort"
+        ],
+        "synonyms": {
+          "casual": ["everyday", "daily", "relaxed", "regular wear"],
+          "minimal": ["simple", "clean", "basic", "sleek"],
+          "lightweight": ["light", "feather-light", "not heavy", "airy"],
+          "comfortable": ["cozy", "cushioned", "soft", "aramdayak"],
+          "daily": ["everyday", "routine", "regular", "roz"]
+        },
+        "intent_tags": [
+          "casual_lifestyle",
+          "daily_comfort",
+          "urban_style",
+          "college_appropriate",
+          "office_casual",
+          "weekend_wear",
+          "social_occasions"
+        ],
+        "semantic_clusters": [
+          "casual_footwear",
+          "lifestyle_sneakers",
+          "urban_comfort",
+          "daily_essentials",
+          "minimal_fashion",
+          "student_lifestyle",
+          "professional_casual"
+        ]
+      },
+      "usage_intelligence": {
+        "use_cases": [
+          {
+            "scenario": "Daily use on college campus",
+            "suitability": "excellent",
+            "reasoning": "Comfortable for walking between classes all day, stylish enough for hanging out with friends, and light enough for long wear.",
+            "environment": "both",
+            "context": "casual"
+          },
+          {
+            "scenario": "For casual dress code at the office",
+            "suitability": "very_good",
+            "reasoning": "The simple, clean design looks good with business casual clothes. They are comfortable for wearing in the office and look professional yet relaxed.",
+            "environment": "indoor",
+            "context": "professional"
+          },
+          {
+            "scenario": "Weekend outings and casual dates",
+            "suitability": "excellent",
+            "reasoning": "Their versatile style goes with many casual outfits. They are comfortable for long social activities and have a trendy, simple look.",
+            "environment": "both",
+            "context": "casual"
+          },
+          {
+            "scenario": "Daily commute and walking in the city",
+            "suitability": "very_good",
+            "reasoning": "Being lightweight, they don't make your feet tired during a commute. They are breathable, which is great for warm weather, and comfortable for daily travel.",
+            "environment": "outdoor",
+            "context": "casual"
+          },
+          {
+            "scenario": "Shopping and other leisure activities",
+            "suitability": "excellent",
+            "reasoning": "Comfortable all day for long shopping trips. They look stylish and are easy to pair with different outfits.",
+            "environment": "both",
+            "context": "casual"
+          },
+          {
+            "scenario": "Light exercise like walking",
+            "suitability": "fair",
+            "reasoning": "Good for casual walks, but not designed for heavy sports or running.",
+            "environment": "both",
+            "context": "casual"
+          }
+        ],
+        "target_demographics": {
+          "age_groups": ["18-25", "26-35"],
+          "activity_levels": ["sedentary", "light_activity", "casual_walker"],
+          "professions": [
+            "Students",
+            "Software professionals",
+            "Creative professionals",
+            "Office workers",
+            "Freelancers",
+            "Entrepreneurs"
+          ],
+          "lifestyle_segments": [
+            "Urban millennials",
+            "College students",
+            "Young professionals",
+            "Casual lifestyle enthusiasts",
+            "Fashion-conscious individuals"
+          ],
+          "use_contexts": [
+            "Educational institutions",
+            "Casual office environments",
+            "Social gatherings",
+            "Urban exploration",
+            "Leisure activities"
+          ]
+        },
+        "seasonal_relevance": {
+          "year_round": true,
+          "peak_seasons": ["Spring", "Summer", "Early monsoon"],
+          "weather_suitability": ["Warm", "Humid", "Mild", "Dry"],
+          "occasion_relevance": [
+            "Back-to-college season",
+            "Summer internships",
+            "Casual Friday culture",
+            "Weekend social events",
+            "Festival casual gatherings"
+          ]
+        },
+        "performance_contexts": {
+          "optimal_conditions": [
+            "Urban environments with smooth surfaces",
+            "Temperature range 20-35°C",
+            "Casual daily activities",
+            "Indoor and light outdoor use",
+            "Social and professional casual settings"
+          ],
+          "limitations": [
+            "Not suitable for intensive sports or running",
+            "Limited support for high-impact activities",
+            "May not provide adequate protection for rough terrain",
+            "Not designed for extreme weather conditions"
+          ],
+          "complementary_products": [
+            "Casual clothing and accessories",
+            "Laptop bags and backpacks",
+            "Casual watches and accessories",
+            "Lifestyle apparel",
+            "Urban commuting accessories"
+          ]
+        }
+      },
+      "variants": [
+        {
+          "variant_id": "40296309784661",
+          "sku": "ELEV-DAY-GB-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Galaxy_Blue_Side_Angle_c5e46ee5-4c38-4ef8-a013-0466ce9fdc75.jpg?v=1753106828",
+          "color": {
+            "name": "Galaxy Blue",
+            "hex": "#4169E1",
+            "localized_names": {
+              "hindi": "गैलेक्सी नीला",
+              "marathi": "गॅलेक्सी निळा",
+              "telugu": "గెలాక్సీ నీలం",
+              "kannada": "ಗ್ಯಾಲಕ್ಸಿ ನೀಲಿ",
+              "bengali": "গ্যালাক্সি নীল"
+            }
+          },
+          "size": {
+            "uk": 9,
+            "us": 10,
+            "eu": 43,
+            "cm": 27.5
+          },
+          "pricing": {
+            "current_price_inr": 1899,
+            "original_price_inr": 2490,
+            "discount_percentage": 23.7,
+            "discount_offer": "20% OFF"
+          },
+          "availability": {
+            "status": "in_stock",
+            "stock_level": "good",
+            "estimated_delivery": "2-3 business days"
+          }
+        },
+        {
+          "variant_id": "40296309817429",
+          "sku": "ELEV-DAY-GW-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Glacier_White_Side_Angle_af17dfbb-c3fc-46a8-87ea-0a3d2802b400.jpg?v=1753106828",
+          "color": {
+            "name": "Glacier White",
+            "hex": "#F8F8FF",
+            "localized_names": {
+              "hindi": "ग्लेशियर सफेद",
+              "marathi": "ग्लेशियर पांढरा",
+              "telugu": "గ్లేసియర్ తెలుపు",
+              "kannada": "ಗ್ಲೇಸಿಯರ್ ಬಿಳಿ",
+              "bengali": "গ্লেসিয়ার সাদা"
+            }
+          },
+          "size": {
+            "uk": 9,
+            "us": 10,
+            "eu": 43,
+            "cm": 27.5
+          },
+          "pricing": {
+            "current_price_inr": 1899,
+            "original_price_inr": 2490,
+            "discount_percentage": 23.7,
+            "discount_offer": "20% OFF"
+          },
+          "availability": {
+            "status": "in_stock",
+            "stock_level": "good",
+            "estimated_delivery": "2-3 business days"
+          }
+        },
+        {
+          "variant_id": "40296309751893",
+          "sku": "ELEV-DAY-CB-UK9",
+          "image_url": "https://elevarsports.com/cdn/shop/products/Elevar_Sports_Dayscape_Carbon_Black_Side_Angle_1b30a282-deba-48e3-a4db-bda3d3514fc9.jpg?v=1753106828",
+          "color": {
+            "name": "Carbon Black",
+            "hex": "#2C2C2C",
+            "localized_names": {
+              "hindi": "कार्बन काला",
+              "marathi": "कार्बन काळा",
+              "telugu": "కార్బన్ నలుపు",
+              "kannada": "ಕಾರ್ಬನ್ ಕಪ್ಪು",
+              "bengali": "কার্বন কালো"
+            }
+          },
+          "size": {
+            "uk": 9,
+            "us": 10,
+            "eu": 43,
+            "cm": 27.5
+          },
+          "pricing": {
+            "current_price_inr": 1899,
+            "original_price_inr": 2490,
+            "discount_percentage": 23.7,
+            "discount_offer": "20% OFF"
+          },
+          "availability": {
+            "status": "in_stock",
+            "stock_level": "good",
+            "estimated_delivery": "2-3 business days"
+          }
+        }
+      ]
+    }

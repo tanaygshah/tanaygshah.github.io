@@ -6,124 +6,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Elevar Amplifier - Enhanced Product Catalog for LLMs</title>
     <meta name="description" content="Enhanced Elevar product catalog designed for LLM interaction. Structured sneakers and flip flops data with LLM discovery file at /.well-known/llms.txt for ChatGPT and other AI systems.">
-    <meta name="keywords" content="Elevar products, LLM catalog, footwear data, sneakers catalog, flip flops catalog, ChatGPT integration, AI product discovery"
+    <meta name="keywords" content="Elevar products, LLM catalog, footwear data, sneakers catalog, flip flops catalog, ChatGPT integration, AI product discovery">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://elevar-amplify.elastic.run/">
-    <link rel="llms" href="/.well-known/llms.txt" />
+    <link rel="alternate" type="application/json" href="/catalog.json">
     
     <!-- Open Graph tags for better social sharing and indexing -->
     <meta property="og:title" content="Elevar Amplifier - Enhanced Product Catalog for LLMs">
-    <meta property="og:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured sneakers and flip flops data."
+    <meta property="og:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured sneakers and flip flops data.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://elevar-amplify.elastic.run/">
     
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Elevar Amplifier - Enhanced Product Catalog">
-    <meta name="twitter:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured footwear data."
+    <meta name="twitter:description" content="Enhanced Elevar product catalog designed for LLM interaction with structured footwear data.">
     
     <!-- JSON-LD Structured Data for better search engine understanding -->
     <script type="application/ld+json">
-    [
-      {
-        "@context": "https://schema.org",
-        "@type": "WebAPI",
-        "name": "Elevar Amplifier Catalog",
-        "description": "Enhanced Elevar product catalog designed for LLM interaction with structured footwear data",
-        "url": "https://elevar-amplify.elastic.run/",
-        "provider": {
-          "@type": "Organization",
-          "name": "Elevar Sports",
-          "url": "https://elevar-amplify.elastic.run/",
-          "sameAs": [
-            "https://elevar-amplify.elastic.run/.well-known/llms.txt"
-          ]
-        },
-        "documentation": "https://elevar-amplify.elastic.run/.well-known/llms.txt",
-        "termsOfService": "https://elevar-amplify.elastic.run/llms.txt",
-        "license": "CC-BY-4.0",
-        "applicationCategory": "API",
-        "operatingSystem": "Any",
-        "potentialAction": [
-          {
-            "@type": "SearchAction",
-            "target": {
-              "@type": "EntryPoint",
-              "urlTemplate": "https://elevar-amplify.elastic.run/sneakers.txt",
-              "contentType": "text/plain"
-            },
-            "query-input": "name=sneakers",
-            "description": "Access sneakers product catalog"
-          },
-          {
-            "@type": "SearchAction",
-            "target": {
-              "@type": "EntryPoint",
-              "urlTemplate": "https://elevar-amplify.elastic.run/flipflops.txt",
-              "contentType": "text/plain"
-            },
-            "query-input": "name=flipflops",
-            "description": "Access flip flops product catalog"
-          }
-        ]
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Elevar Amplifier",
+      "url": "https://elevar-amplify.elastic.run/",
+      "description": "Enhanced Product Catalog for LLM Interaction",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Elevar Sports"
       },
-      {
-        "@context": "https://schema.org",
-        "@type": "Dataset",
-        "name": "Elevar Sports Product Catalogs",
-        "description": "Comprehensive footwear product data including sneakers and flip flops with detailed specifications, pricing, and availability",
-        "url": "https://elevar-amplify.elastic.run/",
-        "license": "CC-BY-4.0",
-        "creator": {
-          "@type": "Organization",
-          "name": "Elevar Sports"
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://elevar-amplify.elastic.run/products/{search_term_string}.json"
         },
-        "distribution": [
-          {
-            "@type": "DataDownload",
-            "encodingFormat": "text/plain",
-            "contentUrl": "https://elevar-amplify.elastic.run/sneakers.txt",
-            "name": "Sneakers Catalog",
-            "description": "Athletic footwear including running shoes, training sneakers, and casual everyday sneakers"
-          },
-          {
-            "@type": "DataDownload",
-            "encodingFormat": "text/plain",
-            "contentUrl": "https://elevar-amplify.elastic.run/flipflops.txt",
-            "name": "Flip Flops Catalog",
-            "description": "Casual footwear including comfortable daily wear flip-flops with arch support"
-          }
-        ],
-        "keywords": [
-          "footwear",
-          "sneakers",
-          "flip flops",
-          "product catalog",
-          "AI API",
-          "LLM discovery",
-          "ChatGPT integration"
-        ]
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Elevar Amplifier",
-        "url": "https://elevar-amplify.elastic.run/",
-        "description": "Enhanced Product Catalog for LLM Interaction",
-        "publisher": {
-          "@type": "Organization",
-          "name": "Elevar Sports"
-        },
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https://elevar-amplify.elastic.run/{search_term_string}.txt"
-          },
-          "query-input": "required name=search_term_string"
-        }
+        "query-input": "required name=search_term_string"
       }
-    ]
+    }
     </script>
     
     <style>
@@ -154,6 +73,9 @@
             margin: 0.5rem 0 0 0;
             opacity: 0.9;
             font-size: 1.1rem;
+        }
+        .hidden-nav {
+            display: none;
         }
         .endpoints {
             display: grid;
@@ -206,27 +128,36 @@
 
     <div class="endpoints">
         <div class="endpoint">
-            <h3>/llms.txt</h3>
-            <p>Information about this website for LLMs and AI assistants. Contains metadata and instructions for finding product data.</p>
-            <a href="/llms.txt">View LLMs Info</a>
+            <h3>/catalog.json</h3>
+            <p>Canonical machine-readable catalog for all products. Serve as Content-Type: application/json; charset=utf-8.</p>
+            <a href="/catalog.json">View Full Catalog</a>
         </div>
 
         <div class="endpoint">
-            <h3>/sneakers</h3>
-            <p>Enhanced Elevar sneaker catalog with detailed product data including running shoes, casual sneakers, and basketball shoes.</p>
-            <a href="/sneakers.txt">View Sneakers Catalog</a>
-        </div>
-
-        <div class="endpoint">
-            <h3>/flipflops</h3>
-            <p>Enhanced Elevar flip flop catalog with detailed product data including beach sandals, premium leather, and eco-friendly options.</p>
-            <a href="/flipflops.txt">View Flip Flops Catalog</a>
+            <h3>Product Pages</h3>
+            <p>Individual product pages with HTML wrappers and JSON data.</p>
+            <ul>
+                <li><a href="/products/elevar-arc-racer/">Elevar ARC Racer</a> (<a href="/products/elevar-arc-racer.json">json</a>)</li>
+                <li><a href="/products/mens-dayscape/">Men's Dayscape</a> (<a href="/products/mens-dayscape.json">json</a>)</li>
+                <li><a href="/products/mens-hyperflo/">Men's Hyperflo</a> (<a href="/products/mens-hyperflo.json">json</a>)</li>
+                <li><a href="/products/neostryde/">Neo Stryde</a> (<a href="/products/neostryde.json">json</a>)</li>
+            </ul>
         </div>
     </div>
 
     <div class="footer">
         <p>Deployed on GitHub Pages | Static Web Application</p>
         <p><a href="/.well-known/llms.txt" style="color: #667eea; text-decoration: none;">AI Agent API Index</a></p>
+    </div>
+
+    <div class="hidden-nav">
+        <h2>Product Pages</h2>
+        <ul>
+            <li><a href="/products/elevar-arc-racer/">Elevar ARC Racer</a></li>
+            <li><a href="/products/mens-dayscape/">Men's Dayscape</a></li>
+            <li><a href="/products/mens-hyperflo/">Men's Hyperflo</a></li>
+            <li><a href="/products/neostryde/">Neo Stryde</a></li>
+        </ul>
     </div>
 
     <script>

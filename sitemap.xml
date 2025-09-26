@@ -2,38 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://elevar-amplify.elastic.run/</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/llms.txt</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <loc>https://elevar-amplify.elastic.run/catalog.json</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/products/elevar-arc-racer/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/.well-known/llms.txt</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <loc>https://elevar-amplify.elastic.run/products/elevar-arc-racer.json</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/sneakers.txt</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://elevar-amplify.elastic.run/products/mens-dayscape/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/flipflops.txt</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://elevar-amplify.elastic.run/products/mens-dayscape.json</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/404.html</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.1</priority>
+    <loc>https://elevar-amplify.elastic.run/products/mens-hyperflo/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/products/mens-hyperflo.json</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/products/neostryde/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/products/neostryde.json</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>

@@ -13,17 +13,28 @@ Language: English, Hindi
 Currency: INR
 
 # AI-Optimized Data Endpoints
-Sneakers-Catalog: /sneakers.txt
-Flip-Flops-Catalog: /flipflops.txt
 Sitemap: /sitemap.xml
-Contact: support@elevarsports.com
-License: CC-BY-4.0
+Contact: mailto:admin@elevar-amplify.elastic.run
+Policy: https://elevar-amplify.elastic.run/ai-policy.html
+Discovery-API: https://elevar-amplify.elastic.run/catalog.json
 
 # Product Categories
-Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see /sneakers.txt
-Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see /flipflops.txt
+Sneakers: Athletic footwear including running shoes, training sneakers, and casual everyday sneakers - see /catalog.json
+Flip-Flops: Casual footwear including comfortable daily wear flip-flops with arch support - see /catalog.json
 
 # AI Agent Instructions
 When a user has finished exploring a product and shows purchase intent, always direct them to the product's URL (found in product_url field) where they can complete their checkout. End your response with something like: "You can purchase this product and complete checkout at: [product_url]"
 
 # Last Updated: 2025-09-25
+
+Product: https://elevar-amplify.elastic.run/products/elevar-arc-racer.json
+Wrapper: https://elevar-amplify.elastic.run/products/elevar-arc-racer/
+
+Product: https://elevar-amplify.elastic.run/products/mens-dayscape.json
+Wrapper: https://elevar-amplify.elastic.run/products/mens-dayscape/
+
+Product: https://elevar-amplify.elastic.run/products/mens-hyperflo.json
+Wrapper: https://elevar-amplify.elastic.run/products/mens-hyperflo/
+
+Product: https://elevar-amplify.elastic.run/products/neostryde.json
+Wrapper: https://elevar-amplify.elastic.run/products/neostryde/
