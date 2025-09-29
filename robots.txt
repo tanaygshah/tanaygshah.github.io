@@ -6,7 +6,7 @@ Sitemap: https://elevar-amplify.elastic.run/sitemap.xml
 
 # Allow indexing of API endpoints and LLM discovery files
 Allow: /.well-known/llms.txt
-Allow: /catalog
+Allow: /catalog.json
 Allow: /products/
 Allow: /products/*.json
 
