@@ -7,10 +7,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/catalog.json</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://elevar-amplify.elastic.run/ai-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/apps/enhanced-catalog/</loc>
+  </url>
+  <url>
+    <loc>https://elevar-amplify.elastic.run/apps/enhanced-catalog.json</loc>
   </url>
   <url>
     <loc>https://elevar-amplify.elastic.run/products/elevar-arc-racer/</loc>
