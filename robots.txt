@@ -9,7 +9,7 @@ Allow: /.well-known/llms.txt
 Allow: /products/
 Allow: /products/*.json
 Allow: /apps/enhanced-catalog/
-Allow: /apps/enhanced-catalog.json
+Allow: /apps/enhanced-catalog/catalog.json
 Disallow: /_config.yml
 Disallow: /README.md
 

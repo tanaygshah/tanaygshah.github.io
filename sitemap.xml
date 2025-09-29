@@ -13,7 +13,7 @@
     <loc>https://elevar-amplify.elastic.run/apps/enhanced-catalog/</loc>
   </url>
   <url>
-    <loc>https://elevar-amplify.elastic.run/apps/enhanced-catalog.json</loc>
+    <loc>https://elevar-amplify.elastic.run/apps/enhanced-catalog/catalog.json</loc>
   </url>
   <url>
     <loc>https://elevar-amplify.elastic.run/products/elevar-arc-racer/</loc>
